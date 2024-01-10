@@ -1,0 +1,1298 @@
+{
+  "AHJDV1": [
+    {
+      "name": "ATEEZ **✦ Hongjoong 홍중**",
+      "idol": "**✦ Hongjoong 홍중**",
+      "era": "**Deja Vu**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "ASHDV1": [
+    {
+      "name": "ATEEZ **✦ Seonghwa 성화**",
+      "idol": "**✦ Seonghwa 성화**",
+      "era": "**Deja Vu**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "AYHDV1": [
+    {
+      "name": "ATEEZ **✦ Yunho 윤호**",
+      "idol": "**✦ Yunho 윤호**",
+      "era": "**Deja Vu**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "AYSDV1": [
+    {
+      "name": "ATEEZ **✦ Yeosang 여상**",
+      "idol": "**✦ Yeosang 여상**",
+      "era": "**Deja Vu**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "ASADV1": [
+    {
+      "name": "ATEEZ **✦ San 산**",
+      "idol": "**✦ San 산**",
+      "era": "**Deja Vu**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "AMGDV1": [
+    {
+      "name": "ATEEZ **✦ Mingi 민기**",
+      "idol": "**✦ Mingi 민기**",
+      "era": "**Deja Vu**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "AWYDV1": [
+    {
+      "name": "ATEEZ **✦ Wooyoung 우영**",
+      "idol": "**✦ Wooyoung 우영**",
+      "era": "**Deja Vu**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "AJHDV1": [
+    {
+      "name": "ATEEZ **✦ Jongho 종호**",
+      "idol": "**✦ Jongho 종호**",
+      "era": "**Deja Vu**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "GDYDD1": [
+    {
+      "name": "GOLDEN CHILD **✦ Daeyeol 대열**",
+      "idol": "**✦ Daeyeol 대열**",
+      "era": "**DDARA**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "GSYDD1": [
+    {
+      "name": "GOLDEN CHILD **✦ Y 와이**",
+      "idol": "**✦ Y 와이**",
+      "era": "**DDARA**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "GJJDD1": [
+    {
+      "name": "GOLDEN CHILD **✦ Jangjun 장준**",
+      "idol": "**✦ Jangjun 장준**",
+      "era": "**DDARA**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "GTADD1": [
+    {
+      "name": "GOLDEN CHILD **✦ TAG 태그**",
+      "idol": "**✦ TAG 태그**",
+      "era": "**DDARA**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "GSMDD1": [
+    {
+      "name": "GOLDEN CHILD **✦ Seungmin 승민**",
+      "idol": "**✦ Seungmin 승민**",
+      "era": "**DDARA**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "GJHDD1": [
+    {
+      "name": "GOLDEN CHILD **✦ Jaehyun 재현**",
+      "idol": "**✦ Jaehyun 재현**",
+      "era": "**DDARA**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "GJBDD1": [
+    {
+      "name": "GOLDEN CHILD **✦ Jibeom 지범**",
+      "idol": "**✦ Jibeom 지범**",
+      "era": "**DDARA**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "GDHDD1": [
+    {
+      "name": "GOLDEN CHILD **✦ Donghyun 동현**",
+      "idol": "**✦ Donghyun 동현**",
+      "era": "**DDARA**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "GJCDD1": [
+    {
+      "name": "GOLDEN CHILD **✦ Joochan 주찬**",
+      "idol": "**✦ Joochan 주찬**",
+      "era": "**DDARA**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "GBMDD1": [
+    {
+      "name": "GOLDEN CHILD **✦ Bomin 보민**",
+      "idol": "**✦ Bomin 보민**",
+      "era": "**DDARA**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NTYBT1": [
+    {
+      "name": "NCT 2021 **null Taeyong 태용**",
+      "idol": "**null Taeyong 태용**",
+      "era": "**Beautiful**",
+      "role": "**null**",
+      "rarity": "**null**",
+      "image": null
+    },
+    {
+      "name": "NCT 2021 **✦ Taeyong 태용**",
+      "idol": "**✦ Taeyong 태용**",
+      "era": "**Beautiful**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NTIBT1": [
+    {
+      "name": "NCT 2021 **✦ Taeil 태일**",
+      "idol": "**✦ Taeil 태일**",
+      "era": "**Beautiful**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NJNBT1": [
+    {
+      "name": "NCT 2021 **✦ Johnny 쟈니**",
+      "idol": "**✦ Johnny 쟈니**",
+      "era": "**Beautiful**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NYTBT1": [
+    {
+      "name": "NCT 2021 **✦ Yuta 유타**",
+      "idol": "**✦ Yuta 유타**",
+      "era": "**Beautiful**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NKUBT1": [
+    {
+      "name": "NCT 2021 **✦ Kun 쿤**",
+      "idol": "**✦ Kun 쿤**",
+      "era": "**Beautiful**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NDYBT1": [
+    {
+      "name": "NCT 2021 **✦ Doyoung 도영**",
+      "idol": "**✦ Doyoung 도영**",
+      "era": "**Beautiful**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NTEBT1": [
+    {
+      "name": "NCT 2021 **✦ Ten 텐**",
+      "idol": "**✦ Ten 텐**",
+      "era": "**Beautiful**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NJHBT1": [
+    {
+      "name": "NCT 2021 **✦ Jaehyun 재현**",
+      "idol": "**✦ Jaehyun 재현**",
+      "era": "**Beautiful**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NJWBT1": [
+    {
+      "name": "NCT 2021 **✦ Jungwoo 정우**",
+      "idol": "**✦ Jungwoo 정우**",
+      "era": "**Beautiful**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NMABT1": [
+    {
+      "name": "NCT 2021 **✦ Mark 마크**",
+      "idol": "**✦ Mark 마크**",
+      "era": "**Beautiful**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NXJBT1": [
+    {
+      "name": "NCT 2021 **✦ Xiaojun 샤오쥔**",
+      "idol": "**✦ Xiaojun 샤오쥔**",
+      "era": "**Beautiful**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NHDBT1": [
+    {
+      "name": "NCT 2021 **✦ Hendery 헨드리**",
+      "idol": "**✦ Hendery 헨드리**",
+      "era": "**Beautiful**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NRJBT1": [
+    {
+      "name": "NCT 2021 **✦ Renjun 런쥔**",
+      "idol": "**✦ Renjun 런쥔**",
+      "era": "**Beautiful**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NJEBT1": [
+    {
+      "name": "NCT 2021 **✦ Jeno 제노**",
+      "idol": "**✦ Jeno 제노**",
+      "era": "**Beautiful**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NHCBT1": [
+    {
+      "name": "NCT 2021 **✦ Haechan 해찬**",
+      "idol": "**✦ Haechan 해찬**",
+      "era": "**Beautiful**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    },
+    {
+      "name": "NCT 2021 **✦ Jaemin 재민**",
+      "idol": "**✦ Jaemin 재민**",
+      "era": "**Beautiful**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NYYBT1": [
+    {
+      "name": "NCT 2021 **✦ Yangyang 양양**",
+      "idol": "**✦ Yangyang 양양**",
+      "era": "**Beautiful**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NSTBT1": [
+    {
+      "name": "NCT 2021 **✦ Shotaro 쇼타로**",
+      "idol": "**✦ Shotaro 쇼타로**",
+      "era": "**Beautiful**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NSCBT1": [
+    {
+      "name": "NCT 2021 **✦ Sungchan 성찬**",
+      "idol": "**✦ Sungchan 성찬**",
+      "era": "**Beautiful**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NCLBT1": [
+    {
+      "name": "NCT 2021 **✦ Chenle 천러**",
+      "idol": "**✦ Chenle 천러**",
+      "era": "**Beautiful**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NJSBT1": [
+    {
+      "name": "NCT 2021 **✦ Jisung 지성**",
+      "idol": "**✦ Jisung 지성**",
+      "era": "**Beautiful**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "PKHDO1": [
+    {
+      "name": "P1HARMONY **✦ Keeho 기호**",
+      "idol": "**✦ Keeho 기호**",
+      "era": "**Doom Du Doom**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "PTODO1": [
+    {
+      "name": "P1HARMONY **✦ Theo 테오**",
+      "idol": "**✦ Theo 테오**",
+      "era": "**Doom Du Doom**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "PJUDO1": [
+    {
+      "name": "P1HARMONY **✦ Jiung 지웅**",
+      "idol": "**✦ Jiung 지웅**",
+      "era": "**Doom Du Doom**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "PITDO1": [
+    {
+      "name": "P1HARMONY **✦ Intak 인탁**",
+      "idol": "**✦ Intak 인탁**",
+      "era": "**Doom Du Doom**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "PSUDO1": [
+    {
+      "name": "P1HARMONY **✦ Soul 소울**",
+      "idol": "**✦ Soul 소울**",
+      "era": "**Doom Du Doom**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "PJSDO1": [
+    {
+      "name": "P1HARMONY **✦ Jongseob 종섭**",
+      "idol": "**✦ Jongseob 종섭**",
+      "era": "**Doom Du Doom**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "RSTGG1": [
+    {
+      "name": "RIIZE **✦ Shotaro 쇼타로**",
+      "idol": "**✦ Shotaro 쇼타로**",
+      "era": "**Get A Guitar**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "RESGG1": [
+    {
+      "name": "RIIZE **✦ Eunseok 은석**",
+      "idol": "**✦ Eunseok 은석**",
+      "era": "**Get A Guitar**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "RSCGG1": [
+    {
+      "name": "RIIZE **✦ Sungchan 성찬**",
+      "idol": "**✦ Sungchan 성찬**",
+      "era": "**Get A Guitar**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "RWBGG1": [
+    {
+      "name": "RIIZE **✦ Wonbin 원빈**",
+      "idol": "**✦ Wonbin 원빈**",
+      "era": "**Get A Guitar**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "RSHGG1": [
+    {
+      "name": "RIIZE **✦ Seunghan 승한**",
+      "idol": "**✦ Seunghan 승한**",
+      "era": "**Get A Guitar**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "RSOGG1": [
+    {
+      "name": "RIIZE **✦ Sohee 소희**",
+      "idol": "**✦ Sohee 소희**",
+      "era": "**Get A Guitar**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "RATGG1": [
+    {
+      "name": "RIIZE **✦ Anton 안톤**",
+      "idol": "**✦ Anton 안톤**",
+      "era": "**Get A Guitar**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "SYBSB1": [
+    {
+      "name": "SF9 **✦ Youngbin 영빈**",
+      "idol": "**✦ Youngbin 영빈**",
+      "era": "**Summer Breeze**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "SISSB1": [
+    {
+      "name": "SF9 **✦ Inseong 인성**",
+      "idol": "**✦ Inseong 인성**",
+      "era": "**Summer Breeze**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "SJYSB1": [
+    {
+      "name": "SF9 **✦ Jaeyoon 재윤**",
+      "idol": "**✦ Jaeyoon 재윤**",
+      "era": "**Summer Breeze**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "SDWSB1": [
+    {
+      "name": "SF9 **✦ Dawon 다원**",
+      "idol": "**✦ Dawon 다원**",
+      "era": "**Summer Breeze**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "SZHSB1": [
+    {
+      "name": "SF9 **✦ Zuho 주호**",
+      "idol": "**✦ Zuho 주호**",
+      "era": "**Summer Breeze**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "SRWSB1": [
+    {
+      "name": "SF9 **✦ Rowoon 로운**",
+      "idol": "**✦ Rowoon 로운**",
+      "era": "**Summer Breeze**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "STYSB1": [
+    {
+      "name": "SF9 **✦ Taeyang 태양**",
+      "idol": "**✦ Taeyang 태양**",
+      "era": "**Summer Breeze**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "SHYSB1": [
+    {
+      "name": "SF9 **✦ Hwiyoung 휘영**",
+      "idol": "**✦ Hwiyoung 휘영**",
+      "era": "**Summer Breeze**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "SCNSB1": [
+    {
+      "name": "SF9 **✦ Chani 찬희**",
+      "idol": "**✦ Chani 찬희**",
+      "era": "**Summer Breeze**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TSYTS1": [
+    {
+      "name": "THE BOYZ **✦ Sangyeon 상연**",
+      "idol": "**✦ Sangyeon 상연**",
+      "era": "**The Stealer**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TJCTS1": [
+    {
+      "name": "THE BOYZ **✦ Jacob 제이콥**",
+      "idol": "**✦ Jacob 제이콥**",
+      "era": "**The Stealer**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TYHTS1": [
+    {
+      "name": "THE BOYZ **✦ Younghoon 영훈**",
+      "idol": "**✦ Younghoon 영훈**",
+      "era": "**The Stealer**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "THJTS1": [
+    {
+      "name": "THE BOYZ **✦ Hyunjae 현재**",
+      "idol": "**✦ Hyunjae 현재**",
+      "era": "**The Stealer**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TJYTS1": [
+    {
+      "name": "THE BOYZ **✦ Juyeon 주연**",
+      "idol": "**✦ Juyeon 주연**",
+      "era": "**The Stealer**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TKVTS1": [
+    {
+      "name": "THE BOYZ **✦ Kevin 케빈**",
+      "idol": "**✦ Kevin 케빈**",
+      "era": "**The Stealer**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TNETS1": [
+    {
+      "name": "THE BOYZ **✦ New 뉴**",
+      "idol": "**✦ New 뉴**",
+      "era": "**The Stealer**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TCMTS1": [
+    {
+      "name": "THE BOYZ **✦ Q 큐**",
+      "idol": "**✦ Q 큐**",
+      "era": "**The Stealer**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TJHTS1": [
+    {
+      "name": "THE BOYZ **✦ Ju Haknyeon 주학년**",
+      "idol": "**✦ Ju Haknyeon 주학년**",
+      "era": "**The Stealer**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TSWTS1": [
+    {
+      "name": "THE BOYZ **✦ Sunwoo 선우**",
+      "idol": "**✦ Sunwoo 선우**",
+      "era": "**The Stealer**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TERTS1": [
+    {
+      "name": "THE BOYZ **✦ Eric 에릭**",
+      "idol": "**✦ Eric 에릭**",
+      "era": "**The Stealer**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "IYJNS1": [
+    {
+      "name": "ITZY **✦ Yeji 예지**",
+      "idol": "**✦ Yeji 예지**",
+      "era": "**Not Shy**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "ILANS1": [
+    {
+      "name": "ITZY **✦ Lia 리아**",
+      "idol": "**✦ Lia 리아**",
+      "era": "**Not Shy**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "IRJNS1": [
+    {
+      "name": "ITZY **✦ Ryujin 류진**",
+      "idol": "**✦ Ryujin 류진**",
+      "era": "**Not Shy**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "ICYNS1": [
+    {
+      "name": "ITZY **✦ Chaeryeong 채령**",
+      "idol": "**✦ Chaeryeong 채령**",
+      "era": "**Not Shy**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "IYNNS1": [
+    {
+      "name": "ITZY **✦ Yuna 유나**",
+      "idol": "**✦ Yuna 유나**",
+      "era": "**Not Shy**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "IEBLV1": [
+    {
+      "name": "IZ*ONE **✦ Eunbi 은비**",
+      "idol": "**✦ Eunbi 은비**",
+      "era": "**La Vie En Rose**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "ISKLV1": [
+    {
+      "name": "IZ*ONE **✦ Sakura 사쿠라**",
+      "idol": "**✦ Sakura 사쿠라**",
+      "era": "**La Vie En Rose**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "IHWLV1": [
+    {
+      "name": "IZ*ONE **✦ Hyewon 혜원**",
+      "idol": "**✦ Hyewon 혜원**",
+      "era": "**La Vie En Rose**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "IYNLV1": [
+    {
+      "name": "IZ*ONE **✦ Yena 예나**",
+      "idol": "**✦ Yena 예나**",
+      "era": "**La Vie En Rose**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "ICYLV1": [
+    {
+      "name": "IZ*ONE **✦ Chaeyeon 채연**",
+      "idol": "**✦ Chaeyeon 채연**",
+      "era": "**La Vie En Rose**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "ICWLV1": [
+    {
+      "name": "IZ*ONE **✦ Chaewon 채원**",
+      "idol": "**✦ Chaewon 채원**",
+      "era": "**La Vie En Rose**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "IMJLV1": [
+    {
+      "name": "IZ*ONE **✦ Minju 민주**",
+      "idol": "**✦ Minju 민주**",
+      "era": "**La Vie En Rose**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "INKLV1": [
+    {
+      "name": "IZ*ONE **✦ Nako 나코**",
+      "idol": "**✦ Nako 나코**",
+      "era": "**La Vie En Rose**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "IYRLV1": [
+    {
+      "name": "IZ*ONE **✦ Hitomi 히토미**",
+      "idol": "**✦ Hitomi 히토미**",
+      "era": "**La Vie En Rose**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "IYJLV1": [
+    {
+      "name": "IZ*ONE **✦ Yujin 유진**",
+      "idol": "**✦ Yujin 유진**",
+      "era": "**La Vie En Rose**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "IWYLV1": [
+    {
+      "name": "IZ*ONE **✦ Wonyoung 원영**",
+      "idol": "**✦ Wonyoung 원영**",
+      "era": "**La Vie En Rose**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LCWAF1": [
+    {
+      "name": "LE SSERAFIM **✦ Chaewon 채원**",
+      "idol": "**✦ Chaewon 채원**",
+      "era": "**ANTIFRAGILE**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LSKAF1": [
+    {
+      "name": "LE SSERAFIM **✦ Sakura 사쿠라**",
+      "idol": "**✦ Sakura 사쿠라**",
+      "era": "**ANTIFRAGILE**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LYJAF1": [
+    {
+      "name": "LE SSERAFIM **✦ Yunjin 윤진**",
+      "idol": "**✦ Yunjin 윤진**",
+      "era": "**ANTIFRAGILE**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LKZAF1": [
+    {
+      "name": "LE SSERAFIM **✦ Kazuha 가즈하**",
+      "idol": "**✦ Kazuha 가즈하**",
+      "era": "**ANTIFRAGILE**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LECAF1": [
+    {
+      "name": "LE SSERAFIM **✦ Eunchae 은채**",
+      "idol": "**✦ Eunchae 은채**",
+      "era": "**ANTIFRAGILE**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LHJBF1": [
+    {
+      "name": "LOONA **✦ HeeJin 희진**",
+      "idol": "**✦ HeeJin 희진**",
+      "era": "**Butterfly**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LHYBF1": [
+    {
+      "name": "LOONA **✦ HyunJin 현진**",
+      "idol": "**✦ HyunJin 현진**",
+      "era": "**Butterfly**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LHSBF1": [
+    {
+      "name": "LOONA **✦ HaSeul 하슬**",
+      "idol": "**✦ HaSeul 하슬**",
+      "era": "**Butterfly**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LYJBF1": [
+    {
+      "name": "LOONA **✦ YeoJin 여진**",
+      "idol": "**✦ YeoJin 여진**",
+      "era": "**Butterfly**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LVVBF1": [
+    {
+      "name": "LOONA **✦ ViVi 비비**",
+      "idol": "**✦ ViVi 비비**",
+      "era": "**Butterfly**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LKLBF1": [
+    {
+      "name": "LOONA **✦ Kim Lip 김립**",
+      "idol": "**✦ Kim Lip 김립**",
+      "era": "**Butterfly**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LJSBF1": [
+    {
+      "name": "LOONA **✦ JinSoul 진솔**",
+      "idol": "**✦ JinSoul 진솔**",
+      "era": "**Butterfly**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LCRBF1": [
+    {
+      "name": "LOONA **✦ Choerry 최리**",
+      "idol": "**✦ Choerry 최리**",
+      "era": "**Butterfly**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LYVBF1": [
+    {
+      "name": "LOONA **✦ Yves 이브**",
+      "idol": "**✦ Yves 이브**",
+      "era": "**Butterfly**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LCHBF1": [
+    {
+      "name": "LOONA **✦ Chuu 츄**",
+      "idol": "**✦ Chuu 츄**",
+      "era": "**Butterfly**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LGWBF1": [
+    {
+      "name": "LOONA **✦ Go Won 고원**",
+      "idol": "**✦ Go Won 고원**",
+      "era": "**Butterfly**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "LOHBF1": [
+    {
+      "name": "LOONA **✦ Olivia Hye 올리비아 혜**",
+      "idol": "**✦ Olivia Hye 올리비아 혜**",
+      "era": "**Butterfly**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NMJHB1": [
+    {
+      "name": "NEWJEANS **✦ Minji 민지**",
+      "idol": "**✦ Minji 민지**",
+      "era": "**Hype Boy**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NHNHB1": [
+    {
+      "name": "NEWJEANS **✦ Hanni 한니**",
+      "idol": "**✦ Hanni 한니**",
+      "era": "**Hype Boy**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NDNHB1": [
+    {
+      "name": "NEWJEANS **✦ Danielle 다니엘**",
+      "idol": "**✦ Danielle 다니엘**",
+      "era": "**Hype Boy**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NHRHB1": [
+    {
+      "name": "NEWJEANS **✦ Haerin 해린**",
+      "idol": "**✦ Haerin 해린**",
+      "era": "**Hype Boy**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "NHIHB1": [
+    {
+      "name": "NEWJEANS **✦ Hyein 혜인**",
+      "idol": "**✦ Hyein 혜인**",
+      "era": "**Hype Boy**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TJHST1": [
+    {
+      "name": "TWICE **✦ Jihyo 지효**",
+      "idol": "**✦ Jihyo 지효**",
+      "era": "**Scientist**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TNYST1": [
+    {
+      "name": "TWICE **✦ Nayeon 나연**",
+      "idol": "**✦ Nayeon 나연**",
+      "era": "**Scientist**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TJYST1": [
+    {
+      "name": "TWICE **✦ Jeongyeon 정연**",
+      "idol": "**✦ Jeongyeon 정연**",
+      "era": "**Scientist**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TMMST1": [
+    {
+      "name": "TWICE **✦ Momo 모모**",
+      "idol": "**✦ Momo 모모**",
+      "era": "**Scientist**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TSNST1": [
+    {
+      "name": "TWICE **✦ Sana 사나**",
+      "idol": "**✦ Sana 사나**",
+      "era": "**Scientist**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TMNST1": [
+    {
+      "name": "TWICE **✦ Mina 미나**",
+      "idol": "**✦ Mina 미나**",
+      "era": "**Scientist**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TDHST1": [
+    {
+      "name": "TWICE **✦ Dahyun 다현**",
+      "idol": "**✦ Dahyun 다현**",
+      "era": "**Scientist**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TCYST1": [
+    {
+      "name": "TWICE **✦ Chaeyoung 채영**",
+      "idol": "**✦ Chaeyoung 채영**",
+      "era": "**Scientist**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "TTYST1": [
+    {
+      "name": "TWICE **✦ Tzuyu 쯔위**",
+      "idol": "**✦ Tzuyu 쯔위**",
+      "era": "**Scientist**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "WEXAW1": [
+    {
+      "name": "WJSN **✦ EXY 엑시**",
+      "idol": "**✦ EXY 엑시**",
+      "era": "**As You Wish**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "WSAAW1": [
+    {
+      "name": "WJSN **✦ Seola 설아**",
+      "idol": "**✦ Seola 설아**",
+      "era": "**As You Wish**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "WBNAW1": [
+    {
+      "name": "WJSN **✦ Bona 보나**",
+      "idol": "**✦ Bona 보나**",
+      "era": "**As You Wish**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "WSBAW1": [
+    {
+      "name": "WJSN **✦ Soobin 수빈**",
+      "idol": "**✦ Soobin 수빈**",
+      "era": "**As You Wish**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "WLDAW1": [
+    {
+      "name": "WJSN **✦ Luda 루다**",
+      "idol": "**✦ Luda 루다**",
+      "era": "**As You Wish**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "WDWAW1": [
+    {
+      "name": "WJSN **✦ Dawon 다원**",
+      "idol": "**✦ Dawon 다원**",
+      "era": "**As You Wish**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "WESAW1": [
+    {
+      "name": "WJSN **✦ Eunseo 은서**",
+      "idol": "**✦ Eunseo 은서**",
+      "era": "**As You Wish**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "WYRAW1": [
+    {
+      "name": "WJSN **✦ Yeoreum 여름**",
+      "idol": "**✦ Yeoreum 여름**",
+      "era": "**As You Wish**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "WDYAW1": [
+    {
+      "name": "WJSN **✦ Dayoung 다영**",
+      "idol": "**✦ Dayoung 다영**",
+      "era": "**As You Wish**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ],
+  "WYJAW1": [
+    {
+      "name": "WJSN **✦ Yeonjung 연정**",
+      "idol": "**✦ Yeonjung 연정**",
+      "era": "**As You Wish**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": null
+    }
+  ]
+}
