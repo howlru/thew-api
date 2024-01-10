@@ -96,7 +96,7 @@
       "era": "**DDARA**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/4dYFnmX.png"
     }
   ],
   "GJJDD1": [
@@ -106,7 +106,7 @@
       "era": "**DDARA**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/japcn1E.png"
     }
   ],
   "GTADD1": [
@@ -116,7 +116,7 @@
       "era": "**DDARA**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/0nIvvn4.png"
     }
   ],
   "GSMDD1": [
@@ -126,7 +126,7 @@
       "era": "**DDARA**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/ZMupV4l.png"
     }
   ],
   "GJHDD1": [
@@ -136,7 +136,7 @@
       "era": "**DDARA**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/aCHQg5S.png"
     }
   ],
   "GJBDD1": [
@@ -146,7 +146,7 @@
       "era": "**DDARA**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/gRA0tyL.png"
     }
   ],
   "GDHDD1": [
@@ -156,7 +156,7 @@
       "era": "**DDARA**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/JD7grD6.png"
     }
   ],
   "GJCDD1": [
@@ -166,7 +166,7 @@
       "era": "**DDARA**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/QhHQWdk.png"
     }
   ],
   "GBMDD1": [
@@ -176,25 +176,17 @@
       "era": "**DDARA**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/4TlsIaN.png"
     }
   ],
   "NTYBT1": [
-    {
-      "name": "NCT 2021 **null Taeyong 태용**",
-      "idol": "**null Taeyong 태용**",
-      "era": "**Beautiful**",
-      "role": "**null**",
-      "rarity": "**null**",
-      "image": null
-    },
     {
       "name": "NCT 2021 **✦ Taeyong 태용**",
       "idol": "**✦ Taeyong 태용**",
       "era": "**Beautiful**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": ""
     }
   ],
   "NTIBT1": [
@@ -204,7 +196,7 @@
       "era": "**Beautiful**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/h8lGInC.png"
     }
   ],
   "NJNBT1": [
@@ -214,7 +206,7 @@
       "era": "**Beautiful**",
       "role": "**All-round**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/0haL3NX.png"
     }
   ],
   "NYTBT1": [
@@ -224,7 +216,7 @@
       "era": "**Beautiful**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/5txdBEO.png"
     }
   ],
   "NKUBT1": [
@@ -234,7 +226,7 @@
       "era": "**Beautiful**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/FUhCakP.png"
     }
   ],
   "NDYBT1": [
@@ -244,7 +236,7 @@
       "era": "**Beautiful**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/7PAvHAv.png"
     }
   ],
   "NTEBT1": [
@@ -254,7 +246,7 @@
       "era": "**Beautiful**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/zoahSwg.png"
     }
   ],
   "NJHBT1": [
@@ -264,7 +256,7 @@
       "era": "**Beautiful**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": ""
     }
   ],
   "NJWBT1": [
@@ -274,7 +266,7 @@
       "era": "**Beautiful**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/cDCtcCE.png"
     }
   ],
   "NMABT1": [
@@ -284,7 +276,7 @@
       "era": "**Beautiful**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/k82H8W9.png"
     }
   ],
   "NXJBT1": [
@@ -294,7 +286,7 @@
       "era": "**Beautiful**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/uVEvFsp.png"
     }
   ],
   "NHDBT1": [
@@ -304,7 +296,7 @@
       "era": "**Beautiful**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/TMyxtOX.png"
     }
   ],
   "NRJBT1": [
@@ -314,7 +306,7 @@
       "era": "**Beautiful**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/mMKLA0t.png"
     }
   ],
   "NJEBT1": [
@@ -324,7 +316,7 @@
       "era": "**Beautiful**",
       "role": "**All-round**",
       "rarity": "**✦**",
-      "image": null
+      "image": ""
     }
   ],
   "NHCBT1": [
@@ -334,7 +326,7 @@
       "era": "**Beautiful**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/7YoieMG.png"
     },
     {
       "name": "NCT 2021 **✦ Jaemin 재민**",
@@ -342,7 +334,7 @@
       "era": "**Beautiful**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/g7uOwco.png"
     }
   ],
   "NYYBT1": [
@@ -352,7 +344,7 @@
       "era": "**Beautiful**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/slnW4Ae.png"
     }
   ],
   "NSTBT1": [
@@ -362,7 +354,7 @@
       "era": "**Beautiful**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": ""
     }
   ],
   "NSCBT1": [
@@ -372,7 +364,7 @@
       "era": "**Beautiful**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/7lOnz8h.png"
     }
   ],
   "NCLBT1": [
@@ -382,7 +374,7 @@
       "era": "**Beautiful**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/nS7JqE6.png"
     }
   ],
   "NJSBT1": [
@@ -392,7 +384,7 @@
       "era": "**Beautiful**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/64cjQjD.png"
     }
   ],
   "PKHDO1": [
@@ -402,7 +394,7 @@
       "era": "**Doom Du Doom**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/QYFcDO7.png"
     }
   ],
   "PTODO1": [
@@ -412,7 +404,7 @@
       "era": "**Doom Du Doom**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/Xat7pCL.png"
     }
   ],
   "PJUDO1": [
@@ -422,7 +414,7 @@
       "era": "**Doom Du Doom**",
       "role": "**All-round**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/BXuCHFE.png"
     }
   ],
   "PITDO1": [
@@ -432,7 +424,7 @@
       "era": "**Doom Du Doom**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/LBUqmcw.png"
     }
   ],
   "PSUDO1": [
@@ -442,7 +434,7 @@
       "era": "**Doom Du Doom**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/6oUZcWf.png"
     }
   ],
   "PJSDO1": [
@@ -452,7 +444,7 @@
       "era": "**Doom Du Doom**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/1jczObn.png"
     }
   ],
   "RSTGG1": [
@@ -462,7 +454,7 @@
       "era": "**Get A Guitar**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/TPk1nPr.png"
     }
   ],
   "RESGG1": [
@@ -472,7 +464,7 @@
       "era": "**Get A Guitar**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/Tvriav6.png"
     }
   ],
   "RSCGG1": [
@@ -482,7 +474,7 @@
       "era": "**Get A Guitar**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/guCdcDu.png"
     }
   ],
   "RWBGG1": [
@@ -492,7 +484,7 @@
       "era": "**Get A Guitar**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/HqJcrkC.png"
     }
   ],
   "RSHGG1": [
@@ -502,7 +494,7 @@
       "era": "**Get A Guitar**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/RExpJ5k.png"
     }
   ],
   "RSOGG1": [
@@ -512,7 +504,7 @@
       "era": "**Get A Guitar**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/XKviszr.png"
     }
   ],
   "RATGG1": [
@@ -522,7 +514,7 @@
       "era": "**Get A Guitar**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/v2Rx5Li.png"
     }
   ],
   "SYBSB1": [
@@ -532,7 +524,7 @@
       "era": "**Summer Breeze**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/S2O8maj.png"
     }
   ],
   "SISSB1": [
@@ -542,7 +534,7 @@
       "era": "**Summer Breeze**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/1bFx91W.png"
     }
   ],
   "SJYSB1": [
@@ -552,7 +544,7 @@
       "era": "**Summer Breeze**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/jQSzxrC.png"
     }
   ],
   "SDWSB1": [
@@ -562,7 +554,7 @@
       "era": "**Summer Breeze**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/BBSe30E.png"
     }
   ],
   "SZHSB1": [
@@ -572,7 +564,7 @@
       "era": "**Summer Breeze**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/bmou67k.png"
     }
   ],
   "SRWSB1": [
@@ -582,7 +574,7 @@
       "era": "**Summer Breeze**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/eRQVnPZ.png"
     }
   ],
   "STYSB1": [
@@ -592,7 +584,7 @@
       "era": "**Summer Breeze**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/vHXyfls.png"
     }
   ],
   "SHYSB1": [
@@ -602,7 +594,7 @@
       "era": "**Summer Breeze**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/n8J4iCS.png"
     }
   ],
   "SCNSB1": [
@@ -612,7 +604,7 @@
       "era": "**Summer Breeze**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/fk2T8XK.png"
     }
   ],
   "TSYTS1": [
@@ -622,7 +614,7 @@
       "era": "**The Stealer**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": ""
     }
   ],
   "TJCTS1": [
@@ -632,7 +624,7 @@
       "era": "**The Stealer**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/URpsYlL.png"
     }
   ],
   "TYHTS1": [
@@ -642,7 +634,7 @@
       "era": "**The Stealer**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/ny5twm3.png"
     }
   ],
   "THJTS1": [
@@ -652,7 +644,7 @@
       "era": "**The Stealer**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/kXtJuS5.png"
     }
   ],
   "TJYTS1": [
@@ -662,7 +654,7 @@
       "era": "**The Stealer**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/ku6B0XG.png"
     }
   ],
   "TKVTS1": [
@@ -672,7 +664,7 @@
       "era": "**The Stealer**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/EtWbnLU.png"
     }
   ],
   "TNETS1": [
@@ -682,7 +674,7 @@
       "era": "**The Stealer**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/XPU8ynR.png"
     }
   ],
   "TCMTS1": [
@@ -692,7 +684,7 @@
       "era": "**The Stealer**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": ""
     }
   ],
   "TJHTS1": [
@@ -702,7 +694,7 @@
       "era": "**The Stealer**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/ul8yEIR.png"
     }
   ],
   "TSWTS1": [
@@ -712,7 +704,7 @@
       "era": "**The Stealer**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/sNgj02A.png"
     }
   ],
   "TERTS1": [
@@ -722,7 +714,7 @@
       "era": "**The Stealer**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/IaawaiO.png"
     }
   ],
   "IYJNS1": [
@@ -732,7 +724,7 @@
       "era": "**Not Shy**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/lSDQgyh.png"
     }
   ],
   "ILANS1": [
@@ -742,7 +734,7 @@
       "era": "**Not Shy**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/ZYABK8O.png"
     }
   ],
   "IRJNS1": [
@@ -752,7 +744,7 @@
       "era": "**Not Shy**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/RfujiMp.png"
     }
   ],
   "ICYNS1": [
@@ -762,7 +754,7 @@
       "era": "**Not Shy**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/aitGDyn.png"
     }
   ],
   "IYNNS1": [
@@ -772,7 +764,7 @@
       "era": "**Not Shy**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/bJHUoeF.png"
     }
   ],
   "IEBLV1": [
@@ -782,7 +774,7 @@
       "era": "**La Vie En Rose**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/nttc2X8.png"
     }
   ],
   "ISKLV1": [
@@ -792,7 +784,7 @@
       "era": "**La Vie En Rose**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/epkBLhu.png"
     }
   ],
   "IHWLV1": [
@@ -802,7 +794,7 @@
       "era": "**La Vie En Rose**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/xoKD8kn.png"
     }
   ],
   "IYNLV1": [
@@ -812,7 +804,7 @@
       "era": "**La Vie En Rose**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/jWJDKh8.png"
     }
   ],
   "ICYLV1": [
@@ -822,7 +814,7 @@
       "era": "**La Vie En Rose**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/amR3Y7F.png"
     }
   ],
   "ICWLV1": [
@@ -832,7 +824,7 @@
       "era": "**La Vie En Rose**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/qZFnWfS.png"
     }
   ],
   "IMJLV1": [
@@ -842,7 +834,7 @@
       "era": "**La Vie En Rose**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/L4HDVNR.png"
     }
   ],
   "INKLV1": [
@@ -852,7 +844,7 @@
       "era": "**La Vie En Rose**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/bchuXQ9.png"
     }
   ],
   "IYRLV1": [
@@ -862,7 +854,7 @@
       "era": "**La Vie En Rose**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/H4uZLYc.png"
     }
   ],
   "IYJLV1": [
@@ -872,7 +864,7 @@
       "era": "**La Vie En Rose**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/hDf9aUe.png"
     }
   ],
   "IWYLV1": [
@@ -882,7 +874,7 @@
       "era": "**La Vie En Rose**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/L1kKERe.png"
     }
   ],
   "LCWAF1": [
@@ -892,7 +884,7 @@
       "era": "**ANTIFRAGILE**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/0HrJFfE.png"
     }
   ],
   "LSKAF1": [
@@ -902,7 +894,7 @@
       "era": "**ANTIFRAGILE**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/ssEnWLK.png"
     }
   ],
   "LYJAF1": [
@@ -912,7 +904,7 @@
       "era": "**ANTIFRAGILE**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/qZyegjP.png"
     }
   ],
   "LKZAF1": [
@@ -922,7 +914,7 @@
       "era": "**ANTIFRAGILE**",
       "role": "**All-round**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/DG18Kdx.png"
     }
   ],
   "LECAF1": [
@@ -932,7 +924,7 @@
       "era": "**ANTIFRAGILE**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/W71NmfS.png"
     }
   ],
   "LHJBF1": [
@@ -942,7 +934,7 @@
       "era": "**Butterfly**",
       "role": "**All-round**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/ey6ITuc.png"
     }
   ],
   "LHYBF1": [
@@ -952,7 +944,7 @@
       "era": "**Butterfly**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/6DbVuyl.png"
     }
   ],
   "LHSBF1": [
@@ -962,7 +954,7 @@
       "era": "**Butterfly**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/cGDKQsW.png"
     }
   ],
   "LYJBF1": [
@@ -972,7 +964,7 @@
       "era": "**Butterfly**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/7r1kPPN.png"
     }
   ],
   "LVVBF1": [
@@ -982,7 +974,7 @@
       "era": "**Butterfly**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/0MZh2t1.png"
     }
   ],
   "LKLBF1": [
@@ -992,7 +984,7 @@
       "era": "**Butterfly**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/pn3VDwh.png"
     }
   ],
   "LJSBF1": [
@@ -1002,7 +994,7 @@
       "era": "**Butterfly**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/m9SZm49.png"
     }
   ],
   "LCRBF1": [
@@ -1012,7 +1004,7 @@
       "era": "**Butterfly**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/sceFScq.png"
     }
   ],
   "LYVBF1": [
@@ -1022,7 +1014,7 @@
       "era": "**Butterfly**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/pc5s1fz.png"
     }
   ],
   "LCHBF1": [
@@ -1032,7 +1024,7 @@
       "era": "**Butterfly**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/q7iPjZ2.png"
     }
   ],
   "LGWBF1": [
@@ -1042,7 +1034,7 @@
       "era": "**Butterfly**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/ASbAmYh.png"
     }
   ],
   "LOHBF1": [
@@ -1052,7 +1044,7 @@
       "era": "**Butterfly**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/r0x3yhY.png"
     }
   ],
   "NMJHB1": [
@@ -1062,7 +1054,7 @@
       "era": "**Hype Boy**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/YEf6FJr.png"
     }
   ],
   "NHNHB1": [
@@ -1072,7 +1064,7 @@
       "era": "**Hype Boy**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/6o97H6r.png"
     }
   ],
   "NDNHB1": [
@@ -1082,7 +1074,7 @@
       "era": "**Hype Boy**",
       "role": "**All-round**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/dblkrDa.png"
     }
   ],
   "NHRHB1": [
@@ -1092,7 +1084,7 @@
       "era": "**Hype Boy**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/tanP6tb.png"
     }
   ],
   "NHIHB1": [
@@ -1102,7 +1094,7 @@
       "era": "**Hype Boy**",
       "role": "**All-round**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/QWKFSlV.png"
     }
   ],
   "TJHST1": [
@@ -1112,7 +1104,7 @@
       "era": "**Scientist**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/oKAZzHW.png"
     }
   ],
   "TNYST1": [
@@ -1122,7 +1114,7 @@
       "era": "**Scientist**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/4Jrm6Hj.png"
     }
   ],
   "TJYST1": [
@@ -1132,7 +1124,7 @@
       "era": "**Scientist**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/oRiooId.png"
     }
   ],
   "TMMST1": [
@@ -1142,7 +1134,7 @@
       "era": "**Scientist**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/fF2X1f8.png"
     }
   ],
   "TSNST1": [
@@ -1152,7 +1144,7 @@
       "era": "**Scientist**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/sQ9b6YX.png"
     }
   ],
   "TMNST1": [
@@ -1162,7 +1154,7 @@
       "era": "**Scientist**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/nsl4gx0.png"
     }
   ],
   "TDHST1": [
@@ -1172,7 +1164,7 @@
       "era": "**Scientist**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/CNRy9ic.png"
     }
   ],
   "TCYST1": [
@@ -1182,7 +1174,7 @@
       "era": "**Scientist**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/nKQtJTH.png"
     }
   ],
   "TTYST1": [
@@ -1192,7 +1184,7 @@
       "era": "**Scientist**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/HAfR6uR.png"
     }
   ],
   "WEXAW1": [
@@ -1202,7 +1194,7 @@
       "era": "**As You Wish**",
       "role": "**Rap**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/elmFzds.png"
     }
   ],
   "WSAAW1": [
@@ -1212,7 +1204,7 @@
       "era": "**As You Wish**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/i0MuqqJ.png"
     }
   ],
   "WBNAW1": [
@@ -1222,7 +1214,7 @@
       "era": "**As You Wish**",
       "role": "**All-round**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/S0DYGRj.png"
     }
   ],
   "WSBAW1": [
@@ -1232,7 +1224,7 @@
       "era": "**As You Wish**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/GOutlua.png"
     }
   ],
   "WLDAW1": [
@@ -1242,7 +1234,7 @@
       "era": "**As You Wish**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/jCdWL1k.png"
     }
   ],
   "WDWAW1": [
@@ -1252,7 +1244,7 @@
       "era": "**As You Wish**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/AYGDuAT.png"
     }
   ],
   "WESAW1": [
@@ -1262,7 +1254,7 @@
       "era": "**As You Wish**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/lO0ZIea.png"
     }
   ],
   "WYRAW1": [
@@ -1272,7 +1264,7 @@
       "era": "**As You Wish**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/UMc71s6.png"
     }
   ],
   "WDYAW1": [
@@ -1282,7 +1274,7 @@
       "era": "**As You Wish**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/g5iHlat.png"
     }
   ],
   "WYJAW1": [
@@ -1292,7 +1284,7 @@
       "era": "**As You Wish**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": null
+      "image": "https://i.imgur.com/8dI81bH.png"
     }
   ]
 }
