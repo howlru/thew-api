@@ -504,7 +504,7 @@
       "era": "**Summer Breeze**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": "https://cdn.discordapp.com/attachments/1194860682185814056/1194860685314764972/sf9_rowoon.png"
+      "image": "hhttps://cdn.discordapp.com/attachments/1194860682185814056/1194860685314764972/sf9_rowoon.png"
     }
   ],
   "STYSB1": [
@@ -777,7 +777,7 @@
       "image": "https://cdn.discordapp.com/attachments/1194859215773237278/1194859218990276629/izone_nako.png"
     }
   ],
-  "IYRLV1": [
+  "IHMLV1": [
     {
       "name": "**IZ*ONE ✦ Hitomi 히토미**",
       "idol": "**✦ Hitomi 히토미**",
@@ -785,6 +785,16 @@
       "role": "**Vocal**",
       "rarity": "**✦**",
       "image": "https://cdn.discordapp.com/attachments/1194859215773237278/1194859217849426011/izone_hitomi.png"
+    }
+  ],
+  "IYRLV1": [
+    {
+      "name": "**IZ*ONE ✦ Yuri 유리**",
+      "idol": "**✦ Yuri 유리**",
+      "era": "**La Vie en Rose**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1194859215773237278/1194859278062858304/izone_yuri.png"
     }
   ],
   "IYJLV1": [
@@ -1554,7 +1564,7 @@
       "era": "**Forever 1**",
       "role": "**Vocal**",
       "rarity": "**✦**",
-      "image": "https://cdn.discordapp.com/attachments/1195539568955506799/1195539571967000716/snsd_taeyeon.png"
+      "image": "https://cdn.discordapp.com/attachments/1195539568955506799/1195539571967000716/snsd_taeyeon.pnga&"
     }
   ],
   "SSNFO1": [
@@ -1759,7 +1769,7 @@
   ],
   "IYJLD1": [
     {
-      "name": "**IVE ✦ Yujin 유진**",
+      "name": "IVE **✦ Yujin 유진**",
       "idol": "**✦ Yujin 유진**",
       "era": "**Love Dive**",
       "role": "**Dance**",
@@ -1769,7 +1779,7 @@
   ],
   "IGELD1": [
     {
-      "name": "**IVE ✦ Gaeul 가을**",
+      "name": "IVE **✦ Gaeul 가을**",
       "idol": "**✦ Gaeul 가을**",
       "era": "**Love Dive**",
       "role": "**Rap**",
@@ -1779,7 +1789,7 @@
   ],
   "IRELD1": [
     {
-      "name": "**IVE ✦ Rei 레이**",
+      "name": "IVE **✦ Rei 레이**",
       "idol": "**✦ Rei 레이**",
       "era": "**Love Dive**",
       "role": "**Rap**",
@@ -1789,7 +1799,7 @@
   ],
   "IWYLD1": [
     {
-      "name": "**IVE ✦ Wonyoung 원영**",
+      "name": "IVE **✦ Wonyoung 원영**",
       "idol": "**✦ Wonyoung 원영**",
       "era": "**Love Dive**",
       "role": "**Vocal**",
@@ -1799,7 +1809,7 @@
   ],
   "ILILD1": [
     {
-      "name": "**IVE ✦ Liz 리즈**",
+      "name": "IVE **✦ Liz 리즈**",
       "idol": "**✦ Liz 리즈**",
       "era": "**Love Dive**",
       "role": "**Vocal**",
@@ -1809,7 +1819,7 @@
   ],
   "ILSLD1": [
     {
-      "name": "**IVE ✦ Leeseo 이서**",
+      "name": "IVE **✦ Leeseo 이서**",
       "idol": "**✦ Leeseo 이서**",
       "era": "**Love Dive**",
       "role": "**Vocal**",
@@ -1819,7 +1829,7 @@
   ],
   "ZHBIB1": [
     {
-      "name": "**ZEROBASEONE ✦ Hanbin 한빈**",
+      "name": "ZEROBASEONE **✦ Hanbin 한빈**",
       "idol": "**✦ Hanbin 한빈**",
       "era": "**In Bloom**",
       "role": "**All-round**",
@@ -1829,7 +1839,7 @@
   ],
   "ZJWIB1": [
     {
-      "name": "**ZEROBASEONE ✦ Jiwoong 지웅**",
+      "name": "ZEROBASEONE **✦ Jiwoong 지웅**",
       "idol": "**✦ Jiwoong 지웅**",
       "era": "**In Bloom**",
       "role": "**All-round**",
@@ -1839,7 +1849,7 @@
   ],
   "ZZHIB1": [
     {
-      "name": "**ZEROBASEONE ✦ Zhang Hao 장하오**",
+      "name": "ZEROBASEONE **✦ Zhang Hao 장하오**",
       "idol": "**✦ Zhang Hao 장하오**",
       "era": "**In Bloom**",
       "role": "**Vocal**",
@@ -1849,7 +1859,7 @@
   ],
   "ZMTIB1": [
     {
-      "name": "**ZEROBASEONE ✦ Matthew 매튜**",
+      "name": "ZEROBASEONE **✦ Matthew 매튜**",
       "idol": "**✦ Matthew 매튜**",
       "era": "**In Bloom**",
       "role": "**Dance**",
@@ -1859,7 +1869,7 @@
   ],
   "ZTRIB1": [
     {
-      "name": "**ZEROBASEONE ✦ Taerae 태래**",
+      "name": "ZEROBASEONE **✦ Taerae 태래**",
       "idol": "**✦ Taerae 태래**",
       "era": "**In Bloom**",
       "role": "**Vocal**",
@@ -1869,7 +1879,7 @@
   ],
   "ZRKIB1": [
     {
-      "name": "**ZEROBASEONE ✦ Ricky 리키**",
+      "name": "ZEROBASEONE **✦ Ricky 리키**",
       "idol": "**✦ Ricky 리키**",
       "era": "**In Bloom**",
       "role": "**Vocal**",
@@ -1879,37 +1889,37 @@
   ],
   "ZGVIB1": [
     {
-      "name": "**ZEROBASEONE ✦ Gyuvin 규빈**",
+      "name": "ZEROBASEONE **✦ Gyuvin 규빈**",
       "idol": "**✦ Gyuvin 규빈**",
       "era": "**In Bloom**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": "https://cdn.discordapp.com/attachments/1195539811394658474/1195539814242603088/zb1_gyuvin.png"
+      "image": null
     }
   ],
   "ZGWIB1": [
     {
-      "name": "**ZEROBASEONE ✦ Gunwook 군욱**",
+      "name": "ZEROBASEONE **✦ Gunwook 군욱**",
       "idol": "**✦ Gunwook 군욱**",
       "era": "**In Bloom**",
       "role": "**All-round**",
       "rarity": "**✦**",
-      "image": "https://cdn.discordapp.com/attachments/1195539811394658474/1195539814611697785/zb1_gunwook.png"
+      "image": null
     }
   ],
   "ZYJIB1": [
     {
-      "name": "**ZEROBASEONE ✦ Yujin 유진**",
+      "name": "ZEROBASEONE **✦ Yujin 유진**",
       "idol": "**✦ Yujin 유진**",
       "era": "**In Bloom**",
       "role": "**Dance**",
       "rarity": "**✦**",
-      "image": "https://cdn.discordapp.com/attachments/1195539811394658474/1195539814972399676/zb1_yujin.png?"
+      "image": null
     }
   ],
   "SCHBC1": [
     {
-      "name": "**SOLOIST✦ Chungha 청하**",
+      "name": "SOLOIST **✦ Chungha 청하**",
       "idol": "**✦ Chungha 청하**",
       "era": "**Bicycle**",
       "role": "**All-round**",
@@ -1919,7 +1929,7 @@
   ],
   "SIUCR1": [
     {
-      "name": "**SOLOIST✦ IU 아이유**",
+      "name": "SOLOIST **✦ IU 아이유**",
       "idol": "**✦ IU 아이유**",
       "era": "**Celebrity**",
       "role": "**Vocal**",
@@ -1927,7 +1937,7 @@
       "image": "https://cdn.discordapp.com/attachments/1195540083118444694/1195540083449790645/card_template7.png"
     },
     {
-      "name": "**SOLOIST✦ Jihyo 지효**",
+      "name": "SOLOIST **✦ Jihyo 지효**",
       "idol": "**✦ Jihyo 지효**",
       "era": "**Celebrity**",
       "role": "**All-round**",
@@ -1937,7 +1947,7 @@
   ],
   "SSMFF1": [
     {
-      "name": "**SOLOIST✦ Somi 소미**",
+      "name": "SOLOIST **✦ Somi 소미**",
       "idol": "**✦ Somi 소미**",
       "era": "**Fast Forward**",
       "role": "**All-round**",
@@ -1947,12 +1957,152 @@
   ],
   "STYHP1": [
     {
-      "name": "**SOLOIST✦ Taeyeon 태연**",
+      "name": "SOLOIST **✦ Taeyeon 태연**",
       "idol": "**✦ Taeyeon 태연**",
       "era": "**Happy**",
       "role": "**All-round**",
       "rarity": "**✦**",
       "image": "https://cdn.discordapp.com/attachments/1195540216581210192/1195540216996438116/card_template12.png"
+    }
+  ],
+  "SJNYM1": [
+    {
+      "name": "**SOLOIST ✦ Jennie 제니**",
+      "idol": "**✦ Jennie 제니**",
+      "era": "**You & Me**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195682480867512472/1195682481228234862/card_jennies.png"
+    }
+  ],
+  "SSCFE1": [
+    {
+      "name": "**SEVENTEEN ✦ S.coups 에스쿱스**",
+      "idol": "**✦ S.coups 에스쿱스**",
+      "era": "**Fear**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195924594545135736/1195924598609428590/svt_s.coups.png"
+    }
+  ],
+  "SJHFE1": [
+    {
+      "name": "**SEVENTEEN ✦ Jeonghan 정한**",
+      "idol": "**✦ Jeonghan 정한**",
+      "era": "**Fear**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195924594545135736/1195924597749592155/svt_jeonghan.png"
+    }
+  ],
+  "SJSFE1": [
+    {
+      "name": "**SEVENTEEN ✦ Joshua 조슈아**",
+      "idol": "**✦ Joshua 조슈아**",
+      "era": "**Fear**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195924594545135736/1195924596067668070/svt_joshua.png"
+    }
+  ],
+  "SJUFE1": [
+    {
+      "name": "**SEVENTEEN ✦ Jun 준**",
+      "idol": "**✦ Jun 준**",
+      "era": "**Fear**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195924594545135736/1195924598185791598/svt_jun.png"
+    }
+  ],
+  "SHSFE1": [
+    {
+      "name": "**SEVENTEEN ✦ Hoshi 호시**",
+      "idol": "**✦ Hoshi 호시**",
+      "era": "**Fear**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195924594545135736/1195924701910925332/svt_hoshi.png"
+    }
+  ],
+  "SWWFE1": [
+    {
+      "name": "**SEVENTEEN ✦ Wonwoo 원우**",
+      "idol": "**✦ Wonwoo 원우**",
+      "era": "**Fear**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195924594545135736/1195924702674301018/svt_wonwoo.png"
+    }
+  ],
+  "SWZFE1": [
+    {
+      "name": "**SEVENTEEN ✦ Woozi 우지**",
+      "idol": "**✦ Woozi 우지**",
+      "era": "**Fear**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195924594545135736/1195924595602112532/svt_woozi.png"
+    }
+  ],
+  "SDKFE1": [
+    {
+      "name": "**SEVENTEEN ✦ DK 디케이**",
+      "idol": "**✦ DK 디케이**",
+      "era": "**Fear**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195924594545135736/1195924597372108831/svt_dk.png"
+    }
+  ],
+  "SMGFE1": [
+    {
+      "name": "**SEVENTEEN ✦ Mingyu 민규**",
+      "idol": "**✦ Mingyu 민규**",
+      "era": "**Fear**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195924594545135736/1195924599083372594/svt_mingyu.png"
+    }
+  ],
+  "STEFE1": [
+    {
+      "name": "**SEVENTEEN ✦ The8 디에잇**",
+      "idol": "**✦ The8 디에잇**",
+      "era": "**Fear**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195924594545135736/1195924597028171886/svt_the8.png"
+    }
+  ],
+  "SSKFE1": [
+    {
+      "name": "**SEVENTEEN ✦ Seungkwan 승관**",
+      "idol": "**✦ Seungkwan 승관**",
+      "era": "**Fear**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195924594545135736/1195924596545830932/svt_seungkwan.png"
+    }
+  ],
+  "SVNFE1": [
+    {
+      "name": "**SEVENTEEN ✦ Vernon 버논**",
+      "idol": "**✦ Vernon 버논**",
+      "era": "**Fear**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195924594545135736/1195924599523786812/svt_vernon.png"
+    }
+  ],
+  "SDNFE1": [
+    {
+      "name": "**SEVENTEEN ✦ Dino 디노**",
+      "idol": "**✦ Dino 디노**",
+      "era": "**Fear**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1195924594545135736/1195924702267449435/svt_dino.png"
     }
   ]
 }
