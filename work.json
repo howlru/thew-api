@@ -1,12 +1,4 @@
 {
-  "UNEMPLOYED": [
-    {
-    "work": "Unemployed",
-    "description": "Get a job! It can give you more money.",
-    "shift": "5",
-    "salary": "50"
-    }
-  ],
   "Backup Dancer": [
     {
     "work": "Backup Dancer",
