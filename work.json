@@ -1,2 +1,25 @@
 {
-  "WORKJOB": "",
+  "WORKJOB": [{
+    "work": "Unemployed",
+    "description": "",
+    "salary": "50"
+  }],
+  "Backup Dancer": [{
+    "work": "Backup Dancer",
+    "description": "Your energy and style on stage as a backup dancer will lift the entire performance. Collaborate together with fellow dancers and choreographers to craft captivating dances that impress the audience.",
+    "shift": "10",
+    "salary": "250"
+  }],
+  "Internship": [{
+    "work": "Internship",
+    "description": "Help with arranging, preparing, and carrying out several facets of live performances. Get familiar with artist management, backstage coordination, and event planning.",
+    "shift": "10",
+    "salary": "250"
+  }],
+  "Backstage Crew": [{
+    "work": "Backstage Crew",
+    "description": "As a member of the backstage crew, you will play a crucial role in making sure the show runs smoothly. To ensure a flawless performance, set up and take down equipment, oversee props, and work in tandem with performers.",
+    "shift": "10",
+    "salary": "250"
+  }]
+}
