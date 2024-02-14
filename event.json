@@ -338,5 +338,15 @@
       "rarity": "**<:SM_VD24:1207102830155005992><:SM_VD24:1207102830155005992><:SM_VD24:1207102830155005992><:SM_VD24:1207102830155005992><:SM_VD24:1207102830155005992>**",
       "image": "https://cdn.discordapp.com/attachments/1201092232275558430/1201092232778895461/card_valentine_2023_template_20240128151427.png"
     }
+  ],
+  "DJUVD24": [
+    {
+      "name": "**DREAMCATCHER ✦ JiU 지유**",
+      "idol": "**✦ JiU 지유**",
+      "era": "**Valentine's Day 2024**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1207151212542296126/1207151212839829534/card_valentine_2023_template_20240214102621.png"
+    }
   ]
 }
