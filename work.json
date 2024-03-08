@@ -1,5 +1,5 @@
 {
-  "Internship": [
+  "INTERNSHIP": [
     {
     "work": "Intern",
     "description": "Help with arranging, preparing, and carrying out several facets of live performances. Get familiar with artist management, backstage coordination, and event planning.",
@@ -7,7 +7,7 @@
     "salary": "250"
     }
   ],
-  "BackupDancer": [
+  "BACKUPDANCER": [
     {
       "work": "Backup Dancer",
       "description": "Your energy and style on stage as a backup dancer will lift the entire performance. Collaborate together with fellow dancers and choreographers to craft fascinating routines that astonish the audience.",
@@ -15,7 +15,7 @@
       "salary": "250"
     }
   ],
-  "BackstageCrew": [
+  "BACKSTAGECREW": [
     {
       "work": "Backstage Crew",
       "description": "You'll play a key role in making sure shows go smoothly as a member of the backstage crew. To ensure a flawless performance, coordinate with performers, set up and take down equipment, and oversee props. You need to be meticulous and have a strong interest in the magic that occurs behind the scenes.",
@@ -23,7 +23,7 @@
       "salary": "250"
     }
   ],
-  "Choreographer": [
+  "CHOREOGRAPHER": [
     {
       "work": "Choreographer",
       "description": "As a choreographer, you will create captivating movements that serve as the performance's heartbeat. Work together with dancers and artists to realize ideas so that each movement is a work of art.",
@@ -31,7 +31,7 @@
       "salary": "500"
     }
   ],
-  "EventCoordinator": [
+  "EVENTCOORDINATOR": [
     {
       "work": "Event Coordinator",
       "description": "Your job as an event coordinator is to plan flawless events. Oversee the logistics, communicate with the performers, and make sure everything is in place for a spectacular evening. It all comes down to transforming concepts into enduring reality.",
@@ -39,15 +39,15 @@
       "salary": "500"
     }
   ],
-  "MakeupArtist": [
+  "MAKEUPARTIST": [
     {
       "work": "Makeup Artist",
-      "description": "Your job as an event coordinator is to plan flawless events. Oversee the logistics, communicate with the performers, and make sure everything is in place for a spectacular evening. It all comes down to transforming concepts into enduring reality.",
+      "description": "Makeup artists may create works of art out of people's faces. Work together with performers to improve their appearance on stage. Your abilities will be the finishing touches to the visual masterpiece, whether it's dramatic stage appearance or delicate improvements.",
       "shift": "10",
       "salary": "500"
     }
   ],
-  "TalentManager": [
+  "TALENTMANAGER": [
     {
       "work": "Talent Manager",
       "description": "As a talent manager, you will find, develop, and mentor artists as they pursue fame. You'll design your gifted protégés' success, from negotiation prowess to strategic planning.",
@@ -55,7 +55,7 @@
       "salary": "1000"
     }
   ],
-  "MusicVideoDirector": [
+  "MUSICVIDEODIRECTOR": [
     {
       "work": "Music Video Director",
       "description": "Transform stories into fascinating visuals in your role as a music video director. Create, plan, and oversee music videos that visually captivate people while enhancing the artist's message.",
@@ -63,7 +63,7 @@
       "salary": "1000"
     }
   ],
-  "Producer": [
+  "PRODUCER": [
     {
       "work": "Producer",
       "description": "Create the sounds, vibes, and beats that will characterize the upcoming sensation in music production. Work together with a variety of skills to create sound magic that attracts listeners throughout the world. Your production skills will be the key to creating K-Pop's catchy beats and memorable songs.",
