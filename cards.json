@@ -4314,5 +4314,1895 @@
       "rarity": "**✦**",
       "image": "https://cdn.discordapp.com/attachments/1212252318855331850/1212254051509739570/nct_dream_renjun-1.png"
     }
+  ],
+  "AJUCG1": [
+    {
+      "name": "**A.C.E ✦ Jun 준**",
+      "idol": "**✦ Jun 준**",
+      "era": "**Changer**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209299267152388186/1211745470657859664/A.C.E_-_Changer_1_Star_-_Junhee.png"
+    }
+  ],
+  "ADHCG1": [
+    {
+      "name": "**A.C.E ✦ Donghun 동훈**",
+      "idol": "**✦ Donghun 동훈**",
+      "era": "**Changer**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209299267152388186/1211745470288764978/A.C.E_-_Changer_1_Star_-_Donghun.png"
+    }
+  ],
+  "AWOCG1": [
+    {
+      "name": "**A.C.E ✦ Wow 와우**",
+      "idol": "**✦ Wow 와우**",
+      "era": "**Changer**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209299267152388186/1211745469806551180/A.C.E_-_Changer_1_Star_-_Wow.png"
+    }
+  ],
+  "ABKCG1": [
+    {
+      "name": "**A.C.E ✦ Byeongkwan 병관**",
+      "idol": "**✦ Byeongkwan 병관**",
+      "era": "**Changer**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209299267152388186/1211745469294837810/A.C.E_-_Changer_1_Star_-_Byeongkwan.png"
+    }
+  ],
+  "ACHCG1": [
+    {
+      "name": "**A.C.E ✦ Chan 찬**",
+      "idol": "**✦ Chan 찬**",
+      "era": "**Changer**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209299267152388186/1211745471010439309/A.C.E_-_Changer_1_Star_-_Yuchan.png"
+    }
+  ],
+  "BEKTS1": [
+    {
+      "name": "**BTOB ✦ Eunkwang 은광**",
+      "idol": "**✦ Eunkwang 은광**",
+      "era": "**The Song**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209297230356287569/1211746712402788392/BTOB_-_The_Song_1_Star_-_Eunkwang.png"
+    }
+  ],
+  "BMHTS1": [
+    {
+      "name": "**BTOB ✦ Minhyuk 민혁**",
+      "idol": "**✦ Minhyuk 민혁**",
+      "era": "**The Song**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209297230356287569/1211746713111502869/BTOB_-_The_Song_1_Star_-_Minhyuk.png"
+    }
+  ],
+  "BCSTS1": [
+    {
+      "name": "**BTOB ✦ Changsub 창섭**",
+      "idol": "**✦ Changsub 창섭**",
+      "era": "**The Song**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209297230356287569/1211746712041816104/BTOB_-_The_Song_1_Star_-_Changsub.png"
+    }
+  ],
+  "BHSTS1": [
+    {
+      "name": "**BTOB ✦ Hyunsik 현식**",
+      "idol": "**✦ Hyunsik 현식**",
+      "era": "**The Song**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209297230356287569/1211746712750788628/BTOB_-_The_Song_1_Star_-_Hyunsik.png"
+    }
+  ],
+  "BPNTS1": [
+    {
+      "name": "**BTOB ✦ Peniel 프니엘**",
+      "idol": "**✦ Peniel 프니엘**",
+      "era": "**The Song**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209297230356287569/1211746713455562803/BTOB_-_The_Song_1_Star_-_Peniel.png"
+    }
+  ],
+  "BSJTS1": [
+    {
+      "name": "**BTOB ✦ Sungjae 성재**",
+      "idol": "**✦ Sungjae 성재**",
+      "era": "**The Song**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209297230356287569/1211746714961322005/BTOB_-_The_Song_1_Star_-_Sungjae.png"
+    }
+  ],
+  "CSRVV1": [
+    {
+      "name": "**CRAVITY ✦ Serim 세림**",
+      "idol": "**✦ Serim 세림**",
+      "era": "**VIVID**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1200291500915949688/1200291501536710677/smb_cravity_20240126115909.png"
+    }
+  ],
+  "CALVV1": [
+    {
+      "name": "**CRAVITY ✦ Allen 앨런**",
+      "idol": "**✦ Allen 앨런**",
+      "era": "**VIVID**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1200291500915949688/1200291501960351825/smb_cravity_20240126115904.png"
+    }
+  ],
+  "CJMVV1": [
+    {
+      "name": "**CRAVITY ✦ Jungmo 정모**",
+      "idol": "**✦ Jungmo 정모**",
+      "era": "**VIVID**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1200291500915949688/1200291502434287667/smb_cravity_20240126115901.png"
+    }
+  ],
+  "CWBVV1": [
+    {
+      "name": "**CRAVITY ✦ Woobin 우빈**",
+      "idol": "**✦ Woobin 우빈**",
+      "era": "**VIVID**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1200291500915949688/1200291502811779162/smb_cravity_20240126115858.png"
+    }
+  ],
+  "CWJVV1": [
+    {
+      "name": "**CRAVITY ✦ Wonjin 원진**",
+      "idol": "**✦ Wonjin 원진**",
+      "era": "**VIVID**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1200291500915949688/1200291503218642954/smb_cravity_20240126115854.png"
+    }
+  ],
+  "CMHVV1": [
+    {
+      "name": "**CRAVITY ✦ Minhee 민희**",
+      "idol": "**✦ Minhee 민희**",
+      "era": "**VIVID**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1200291500915949688/1200291503667413072/smb_cravity_20240126115850.png"
+    }
+  ],
+  "CHJVV1": [
+    {
+      "name": "**CRAVITY ✦ Hyeongjun 형준**",
+      "idol": "**✦ Hyeongjun 형준**",
+      "era": "**VIVID**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1200291500915949688/1200291504338505738/smb_cravity_20240126115847.png"
+    }
+  ],
+  "CTYVV1": [
+    {
+      "name": "**CRAVITY ✦ Taeyoung 태영**",
+      "idol": "**✦ Taeyoung 태영**",
+      "era": "**VIVID**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1200291500915949688/1200291504703426591/smb_cravity_20240126115844.png"
+    }
+  ],
+  "CSMVV1": [
+    {
+      "name": "**CRAVITY ✦ Seongmin 성민**",
+      "idol": "**✦ Seongmin 성민**",
+      "era": "**VIVID**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1200291500915949688/1200291505160585316/smb_cravity_20240126115841.png"
+    }
+  ],
+  "OKBSG1": [
+    {
+      "name": "**ONLYONEOF ✦ KB 케이비**",
+      "idol": "**✦ KB 케이비**",
+      "era": "**Sage**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209297449634504726/1211745963413082192/OnlyOneOf_-_Sage_-_1_Star_-_KB.png"
+    }
+  ],
+  "OLVSG1": [
+    {
+      "name": "**ONLYONEOF ✦ Love 러브**",
+      "idol": "**✦ Love 러브**",
+      "era": "**Sage**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209297449634504726/1211745963044241509/OnlyOneOf_-_Sage_-_1_Star_-_Love.png"
+    }
+  ],
+  "ORISG1": [
+    {
+      "name": "**ONLYONEOF ✦ Rie 리에**",
+      "idol": "**✦ Rie 리에**",
+      "era": "**Sage**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209297449634504726/1211745962712899594/OnlyOneOf_-_Sage_-_1_Star_-_Rie.png"
+    }
+  ],
+  "OYJSG1": [
+    {
+      "name": "**ONLYONEOF ✦ Yoojung 유정**",
+      "idol": "**✦ Yoojung 유정**",
+      "era": "**Sage**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209297449634504726/1211745964289818725/OnlyOneOf_-_Sage_-_1_Star_-_Yoojung.png"
+    }
+  ],
+  "OJJSG1": [
+    {
+      "name": "**ONLYONEOF ✦ Junji 준지**",
+      "idol": "**✦ Junji 준지**",
+      "era": "**Sage**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209297449634504726/1211745962343796736/OnlyOneOf_-_Sage_-_1_Star_-_Junji.png"
+    }
+  ],
+  "OMISG1": [
+    {
+      "name": "**ONLYONEOF ✦ Mill 미르**",
+      "idol": "**✦ Mill 미르**",
+      "era": "**Sage**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209297449634504726/1211745963811676251/OnlyOneOf_-_Sage_-_1_Star_-_Mill.png"
+    }
+  ],
+  "ONISG1": [
+    {
+      "name": "**ONLYONEOF ✦ Nine 나인**",
+      "idol": "**✦ Nine 나인**",
+      "era": "**Sage**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1209297449634504726/1211745961890680842/OnlyOneOf_-_Sage_-_1_Star_-_Nine.png"
+    }
+  ],
+  "EEUSL1": [
+    {
+      "name": "**EVERGLOW ✦ E:U 이유**",
+      "idol": "**✦ E:U 이유**",
+      "era": "**SLAY**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151429471993856/1206151431950831636/EVERGLOW_SLAY_20240211155511.png"
+    }
+  ],
+  "ESHSL1": [
+    {
+      "name": "**EVERGLOW ✦ Sihyeon 시현**",
+      "idol": "**✦ Sihyeon 시현**",
+      "era": "**SLAY**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151429471993856/1206151430000484363/card_template2_20240210101646.png"
+    }
+  ],
+  "EMASL1": [
+    {
+      "name": "**EVERGLOW ✦ Mia 미아**",
+      "idol": "**✦ Mia 미아**",
+      "era": "**SLAY**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151429471993856/1206151431619608586/card_template2_20240210101618.png"
+    }
+  ],
+  "EODSL1": [
+    {
+      "name": "**EVERGLOW ✦ Onda 온다**",
+      "idol": "**✦ Onda 온다**",
+      "era": "**SLAY**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151429471993856/1206151431116296222/card_template2_20240210101629.png"
+    }
+  ],
+  "EASSL1": [
+    {
+      "name": "**EVERGLOW ✦ Aisha 아샤**",
+      "idol": "**✦ Aisha 아샤**",
+      "era": "**SLAY**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151429471993856/1206151430730154015/card_template2_20240210101637.png"
+    }
+  ],
+  "EYRSL1": [
+    {
+      "name": "**EVERGLOW ✦ Yiren 이런**",
+      "idol": "**✦ Yiren 이런**",
+      "era": "**SLAY**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151429471993856/1206151430361059358/card_template2_20240210101656.png"
+    }
+  ],
+  "GSWAP1": [
+    {
+      "name": "**GFRIEND ✦ Sowon 소원**",
+      "idol": "**✦ Sowon 소원**",
+      "era": "**Apple**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205699392464621648/1205699392976322690/card_template4_20240203131443.png"
+    }
+  ],
+  "GYRAP1": [
+    {
+      "name": "**GFRIEND ✦ Yerin 예린**",
+      "idol": "**✦ Yerin 예린**",
+      "era": "**Apple**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205699392464621648/1205699394587074620/card_template4_20240203131304.png"
+    }
+  ],
+  "GEHAP1": [
+    {
+      "name": "**GFRIEND ✦ Eunha 은하**",
+      "idol": "**✦ Eunha 은하**",
+      "era": "**Apple**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205699392464621648/1205699393404149770/card_template4_20240203131429.png"
+    }
+  ],
+  "GYJAP1": [
+    {
+      "name": "**GFRIEND ✦ Yuju 유주**",
+      "idol": "**✦ Yuju 유주**",
+      "era": "**Apple**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205699392464621648/1205699393848614973/card_template4_20240203131406.png"
+    }
+  ],
+  "GSBAP1": [
+    {
+      "name": "**GFRIEND ✦ SinB 신비**",
+      "idol": "**✦ SinB 신비**",
+      "era": "**Apple**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205699392464621648/1205699394972946472/card_template4_20240203141424.png"
+    }
+  ],
+  "GUJAP1": [
+    {
+      "name": "**GFRIEND ✦ Umji 엄지**",
+      "idol": "**✦ Umji 엄지**",
+      "era": "**Apple**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205699392464621648/1205699394251264020/card_template4_20240203131327.png"
+    }
+  ],
+  "GSRIH1": [
+    {
+      "name": "**GWSN ✦ Seoryoung 서령**",
+      "idol": "**✦ Seoryoung 서령**",
+      "era": "**I Like It Hot**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974329842307082/1211746312702402650/GWSN_-_The_Other_Side_of_the_Moon_1_Star_-_Seoryoung.png"
+    }
+  ],
+  "GMYIH1": [
+    {
+      "name": "**GWSN ✦ Miya 미야**",
+      "idol": "**✦ Miya 미야**",
+      "era": "**I Like It Hot**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974329842307082/1211746312001945732/GWSN_-_The_Other_Side_of_the_Moon_1_Star_-_Miya.png"
+    }
+  ],
+  "GSYIH1": [
+    {
+      "name": "**GWSN ✦ Seokyoung 석영**",
+      "idol": "**✦ Seokyoung 석영**",
+      "era": "**I Like It Hot**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974329842307082/1211746312379437107/GWSN_-_The_Other_Side_of_the_Moon_1_Star_-_Seokyoung.png"
+    }
+  ],
+  "GANIH1": [
+    {
+      "name": "**GWSN ✦ Anne 앤**",
+      "idol": "**✦ Anne 앤**",
+      "era": "**I Like It Hot**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974329842307082/1211746310844055632/GWSN_-_The_Other_Side_of_the_Moon_1_Star_-_Anne.png"
+    }
+  ],
+  "GMJIH1": [
+    {
+      "name": "**GWSN ✦ Minju 민주**",
+      "idol": "**✦ Minju 민주**",
+      "era": "**I Like It Hot**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974329842307082/1211746311624327260/GWSN_-_The_Other_Side_of_the_Moon_1_Star_-_Minju.png"
+    }
+  ],
+  "GLNIH1": [
+    {
+      "name": "**GWSN ✦ Lena 레나**",
+      "idol": "**✦ Lena 레나**",
+      "era": "**I Like It Hot**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974329842307082/1211746311238324275/GWSN_-_The_Other_Side_of_the_Moon_1_Star_-_Lena.png"
+    }
+  ],
+  "GSOIH1": [
+    {
+      "name": "**GWSN ✦ Soso 소소**",
+      "idol": "**✦ Soso 소소**",
+      "era": "**I Like It Hot**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974329842307082/1211746313109114930/GWSN_-_The_Other_Side_of_the_Moon_1_Star_-_SoSo.png"
+    }
+  ],
+  "NSYLM1": [
+    {
+      "name": "**NMIXX ✦ Sullyoon 설윤**",
+      "idol": "**✦ Sullyoon 설윤**",
+      "era": "**Love Me Like This**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212728392928075876/1212728394756784168/NMIXX_lmlt_Sullyoon.png"
+    }
+  ],
+  "NHWLM1": [
+    {
+      "name": "**NMIXX ✦ Haewon 해원**",
+      "idol": "**✦ Haewon 해원**",
+      "era": "**Love Me Like This**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212728392928075876/1212728393762873365/NMIXX_lmlt_Haewon.png?ex=65f2e454&is=65e06f54&hm=9983579057466e5c7c5c7ee8c87b5d867710e6337ee123bb6f23e1fb17072dd9&"
+    }
+  ],
+  "NLLLM1": [
+    {
+      "name": "**NMIXX ✦ Lily 릴리**",
+      "idol": "**✦ Lily 릴리**",
+      "era": "**Love Me Like This**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212728392928075876/1212728394266054756/NMIXX_lmlt_Lily.png"
+    }
+  ],
+  "NBALM1": [
+    {
+      "name": "**NMIXX ✦ Bae 배이**",
+      "idol": "**✦ Bae 배이**",
+      "era": "**Love Me Like This**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212728392928075876/1212728395327086602/NMIXX_lmlt_Bae.png"
+    }
+  ],
+  "NJWLM1": [
+    {
+      "name": "**NMIXX ✦ Jiwoo 지우**",
+      "idol": "**✦ Jiwoo 지우**",
+      "era": "**Love Me Like This**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212728392928075876/1212728395910086716/NMIXX_lmlt_Jiwoo.png"
+    }
+  ],
+  "NKJLM1": [
+    {
+      "name": "**NMIXX ✦ Kyujin 규진**",
+      "idol": "**✦ Kyujin 규진**",
+      "era": "**Love Me Like This**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212728392928075876/1212728396434636821/NMIXX_lmlt_Kyujin.png"
+    }
+  ],
+  "SSMSB1": [
+    {
+      "name": "**STAYC ✦ Sumin 수민**",
+      "idol": "**✦ Sumin 수민**",
+      "era": "**SO BAD**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1213107485146357790/1213107486622482432/Sumin_SO_BAD_1s.png"
+    }
+  ],
+  "SSESB1": [
+    {
+      "name": "**STAYC ✦ Sieun 시은**",
+      "idol": "**✦ Sieun 시은**",
+      "era": "**SO BAD**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1213107485146357790/1213107487226466344/Sieun_SO_BAD_1s.png"
+    }
+  ],
+  "SIASB1": [
+    {
+      "name": "**STAYC ✦ Isa 이사**",
+      "idol": "**✦ Isa 이사**",
+      "era": "**SO BAD**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1213107485146357790/1213107487662800966/Isa_SO_BAD_1s.png"
+    }
+  ],
+  "SSNSB1": [
+    {
+      "name": "**STAYC ✦ Seeun 세은**",
+      "idol": "**✦ Seeun 세은**",
+      "era": "**SO BAD**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1213107485146357790/1213107488224714823/Seeun_SO_BAD_1s.png"
+    }
+  ],
+  "SYOSB1": [
+    {
+      "name": "**STAYC ✦ Yoon 윤**",
+      "idol": "**✦ Yoon 윤**",
+      "era": "**SO BAD**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1213107485146357790/1213107488828952576/Yoon_SO_BAD_1s.png"
+    }
+  ],
+  "SJSSB1": [
+    {
+      "name": "**STAYC ✦ J 제이**",
+      "idol": "**✦ J 제이**",
+      "era": "**SO BAD**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1213107485146357790/1213107489562824765/J_SO_BAD_1s.png"
+    }
+  ],
+  "AHJCF2": [
+    {
+      "name": "**ATEEZ ✦✦ Hongjoong 홍중**",
+      "idol": "**✦✦ Hongjoong 홍중**",
+      "era": "**Crazy Form**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974722374504539/1212037466480058478/ATEEZ_-Crazy_Form_2_Star-Hongjoong.png"
+    }
+  ],
+  "ASHCF2": [
+    {
+      "name": "**ATEEZ ✦✦ Seonghwa 성화**",
+      "idol": "**✦✦ Seonghwa 성화**",
+      "era": "**Crazy Form**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974722374504539/1212037466887028806/ATEEZ-Crazy_Form_2_Star-Seonghwa.png"
+    }
+  ],
+  "AYHCF2": [
+    {
+      "name": "**ATEEZ ✦✦ Yunho 윤호**",
+      "idol": "**✦✦ Yunho 윤호**",
+      "era": "**Crazy Form**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974722374504539/1212037467255865424/ATEEZ-Crazy_Form_2_Star-Yunho.png"
+    }
+  ],
+  "AYSCF2": [
+    {
+      "name": "**ATEEZ ✦✦ Yeosang 여상**",
+      "idol": "**✦✦ Yeosang 여상**",
+      "era": "**Crazy Form**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974722374504539/1212037467658522674/ATEEZ-Crazy_Form_2_Star-Yeosang.png"
+    }
+  ],
+  "ASACF2": [
+    {
+      "name": "**ATEEZ ✦✦ San 산**",
+      "idol": "**✦✦ San 산**",
+      "era": "**Crazy Form**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974722374504539/1212037468027748392/ATEEZ-Crazy_Form_2_Star-San.png"
+    }
+  ],
+  "AMGCF2": [
+    {
+      "name": "**ATEEZ ✦✦ Mingi 민기**",
+      "idol": "**✦✦ Mingi 민기**",
+      "era": "**Crazy Form**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974722374504539/1212037468510228511/ATEEZ-Crazy_Form_2_Star-Mingi.png"
+    }
+  ],
+  "AWYCF2": [
+    {
+      "name": "**ATEEZ ✦✦ Wooyoung 우영**",
+      "idol": "**✦✦ Wooyoung 우영**",
+      "era": "**Crazy Form**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974722374504539/1212037468946440262/ATEEZ-Crazy_Form_2_Star-Wooyoung.png"
+    }
+  ],
+  "AJHCF2": [
+    {
+      "name": "**ATEEZ ✦✦ Jongho 종호**",
+      "idol": "**✦✦ Jongho 종호**",
+      "era": "**Crazy Form**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974722374504539/1212037469361541180/ATEEZ-Crazy_Form_2_Star-_Jongho.png"
+    }
+  ],
+  "SSCGM2": [
+    {
+      "name": "**SEVENTEEN ✦✦ S.Coups 에스쿱스**",
+      "idol": "**✦✦ S.Coups 에스쿱스**",
+      "era": "**God of Music**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212752520380678195/1212752520997380116/SVT_SCoups_GOM.png"
+    }
+  ],
+  "SJHGM2": [
+    {
+      "name": "**SEVENTEEN ✦✦ Jeonghan 정한**",
+      "idol": "**✦✦ Jeonghan 정한**",
+      "era": "**God of Music**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212752520380678195/1212752521504755742/SVT_Jeonghan_GOM.png"
+    }
+  ],
+  "SJSGM2": [
+    {
+      "name": "**SEVENTEEN ✦✦ Joshua 조슈아**",
+      "idol": "**✦✦ Joshua 조슈아**",
+      "era": "**God of Music**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212752520380678195/1212752522012393543/SVT_Joshua_GOM.png"
+    }
+  ],
+  "SJUGM2": [
+    {
+      "name": "**SEVENTEEN ✦✦ Jun 준**",
+      "idol": "**✦✦ Jun 준**",
+      "era": "**God of Music**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212752520380678195/1212752522482159657/SVT_Jun_GOM.png"
+    }
+  ],
+  "SHSGM2": [
+    {
+      "name": "**SEVENTEEN ✦✦ Hoshi 호시**",
+      "idol": "**✦✦ Hoshi 호시**",
+      "era": "**God of Music**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212752520380678195/1212752522981417023/SVT_Hoshi_GOM.png"
+    }
+  ],
+  "SWWGM2": [
+    {
+      "name": "**SEVENTEEN ✦✦ Wonwoo 원우**",
+      "idol": "**✦✦ Wonwoo 원우**",
+      "era": "**God of Music**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212752520380678195/1212752523560222770/SVT_Wonwoo_GOM.png"
+    }
+  ],
+  "SWZGM2": [
+    {
+      "name": "**SEVENTEEN ✦✦ Woozi 우지**",
+      "idol": "**✦✦ Woozi 우지**",
+      "era": "**God of Music**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212752520380678195/1212752524004556810/SVT_Woozi_GOM.png"
+    }
+  ],
+  "SDKGM2": [
+    {
+      "name": "**SEVENTEEN ✦✦ DK 도겸**",
+      "idol": "**✦✦ DK 도겸**",
+      "era": "**God of Music**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212752520380678195/1212752576668508201/SVT_DK_GOM.png"
+    }
+  ],
+  "SMGGM2": [
+    {
+      "name": "**SEVENTEEN ✦✦ Mingyu 민규**",
+      "idol": "**✦✦ Mingyu 민규**",
+      "era": "**God of Music**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212752520380678195/1212752576982818856/SVT_Mingyu_GOM.png"
+    }
+  ],
+  "STEGM2": [
+    {
+      "name": "**SEVENTEEN ✦✦ The8 디에잇**",
+      "idol": "**✦✦ The8 디에잇**",
+      "era": "**God of Music**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212752520380678195/1212752577339461673/SVT_The8_GOM.png"
+    }
+  ],
+  "SSKGM2": [
+    {
+      "name": "**SEVENTEEN ✦✦ Seungkwan 승관**",
+      "idol": "**✦✦ Seungkwan 승관**",
+      "era": "**God of Music**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212752520380678195/1212752577737924668/SVT_Seungkwan_GOM.png"
+    }
+  ],
+  "SVNGM2": [
+    {
+      "name": "**SEVENTEEN ✦✦ Vernon 버논**",
+      "idol": "**✦✦ Vernon 버논**",
+      "era": "**God of Music**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212752520380678195/1212752578178318427/SVT_Vernon_GOM.png"
+    }
+  ],
+  "SDNGM2": [
+    {
+      "name": "**SEVENTEEN ✦✦ Dino 디노**",
+      "idol": "**✦✦ Dino 디노**",
+      "era": "**God of Music**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1212752520380678195/1212752578778238976/SVT_Dino_GOM.png"
+    }
+  ],
+  "AKRLS2": [
+    {
+      "name": "**AESPA ✦✦ Karina**",
+      "idol": "**✦✦ Karina**",
+      "era": "**Life's Too Short**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205875453114454026/1205875453953318972/aespa_Lifes_Too_Short_20240210164524.png"
+    }
+  ],
+  "AGSLS2": [
+    {
+      "name": "**AESPA ✦✦ Giselle 지젤**",
+      "idol": "**✦✦ Giselle 지젤**",
+      "era": "**Life's Too Short**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205875453114454026/1205875453500596284/aespa_Lifes_Too_Short_20240210164534.png"
+    }
+  ],
+  "AWTLS2": [
+    {
+      "name": "**AESPA ✦✦ Winter 윈터**",
+      "idol": "**✦✦ Winter 윈터**",
+      "era": "**Life's Too Short**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205875453114454026/1205875454892965918/aespa_Lifes_Too_Short_20240210164505.png"
+    }
+  ],
+  "ANNLS2": [
+    {
+      "name": "**AESPA ✦✦ Ningning 닝닝**",
+      "idol": "**✦✦ Ningning 닝닝**",
+      "era": "**Life's Too Short**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205875453114454026/1205875454364352592/aespa_Lifes_Too_Short_20240210164514.png"
+    }
+  ],
+  "RIRMW2": [
+    {
+      "name": "**RED VELVET ✦✦ Irene 아이린**",
+      "idol": "**✦✦ Irene 아이린**",
+      "era": "**Milky Way**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206174521783222322/1206174522223370312/WJSN_Unnatural2_20240211165844.png"
+    }
+  ],
+  "RSGMW2": [
+    {
+      "name": "**RED VELVET ✦✦ Seulgi 슬기**",
+      "idol": "**✦✦ Seulgi 슬기**",
+      "era": "**Milky Way**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206174521783222322/1206174523376934922/WJSN_Unnatural2_20240211165942.png"
+    }
+  ],
+  "RWDMW2": [
+    {
+      "name": "**RED VELVET ✦✦ Wendy 웬디**",
+      "idol": "**✦✦ Wendy 웬디**",
+      "era": "**Milky Way**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206174521783222322/1206174524052348978/WJSN_Unnatural2_20240211172150.png"
+    }
+  ],
+  "RJOMW2": [
+    {
+      "name": "**RED VELVET ✦✦ Joy 조이**",
+      "idol": "**✦✦ Joy 조이**",
+      "era": "**Milky Way**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206174521783222322/1206174522592596018/WJSN_Unnatural2_20240211165852.png"
+    }
+  ],
+  "RYRMW2": [
+    {
+      "name": "**RED VELVET ✦✦ Yeri 예리**",
+      "idol": "**✦✦ Yeri 예리**",
+      "era": "**Milky Way**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206174521783222322/1206174522949242901/WJSN_Unnatural2_20240211165901.png"
+    }
+  ],
+  "WEXUN2": [
+    {
+      "name": "**WJSN ✦✦ EXY 엑스**",
+      "idol": "**✦✦ EXY 엑스**",
+      "era": "**Unnatural**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151278787436594/1206151282440667226/WJSN_Unnatural_20240211161308.png"
+    }
+  ],
+  "WSAUN2": [
+    {
+      "name": "**WJSN ✦✦ Seola 설아**",
+      "idol": "**✦✦ Seola 설아**",
+      "era": "**Unnatural**",
+      "role": "**All-round**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151278787436594/1206151279726956584/WJSN_Unnatural_20240211161350.png"
+    }
+  ],
+  "WBNUN2": [
+    {
+      "name": "**WJSN ✦✦ Bona 보나**",
+      "idol": "**✦✦ Bona 보나**",
+      "era": "**Unnatural**",
+      "role": "**All-round**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151278787436594/1206151280238526485/WJSN_Unnatural_20240211161342.png"
+    }
+  ],
+  "WSBUN2": [
+    {
+      "name": "**WJSN ✦✦ Soobin 수빈**",
+      "idol": "**✦✦ Soobin 수빈**",
+      "era": "**Unnatural**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151278787436594/1206151280767270922/WJSN_Unnatural_20240211161336.png"
+    }
+  ],
+  "WLDUN2": [
+    {
+      "name": "**WJSN ✦✦ Luda 루다**",
+      "idol": "**✦✦ Luda 루다**",
+      "era": "**Unnatural**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151278787436594/1206151281899474954/WJSN_Unnatural_20240211161316.png"
+    }
+  ],
+  "WDWUN2": [
+    {
+      "name": "**WJSN ✦✦ Dawon 다원**",
+      "idol": "**✦✦ Dawon 다원**",
+      "era": "**Unnatural**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151278787436594/1206151284361666580/WJSN_Unnatural_20240211161208.png"
+    }
+  ],
+  "WESUN2": [
+    {
+      "name": "**WJSN ✦✦ Eunseo 은서**",
+      "idol": "**✦✦ Eunseo 은서**",
+      "era": "**Unnatural**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151278787436594/1206151283447435274/WJSN_Unnatural_20240211161254.png"
+    }
+  ],
+  "WYRUN2": [
+    {
+      "name": "**WJSN ✦✦ Yeoreum 여름**",
+      "idol": "**✦✦ Yeoreum 여름**",
+      "era": "**Unnatural**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151278787436594/1206151285041139803/WJSN_Unnatural_20240211143034.png"
+    }
+  ],
+  "WDYUN2": [
+    {
+      "name": "**WJSN ✦✦ Dayoung 다영**",
+      "idol": "**✦✦ Dayoung 다영**",
+      "era": "**Unnatural**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151278787436594/1206151282985803787/WJSN_Unnatural_20240211161302.png"
+    }
+  ],
+  "WYJUN2": [
+    {
+      "name": "**WJSN ✦✦ Yeonjung 연정**",
+      "idol": "**✦✦ Yeonjung 연정**",
+      "era": "**Unnatural**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206151278787436594/1206151281392230443/WJSN_Unnatural_20240211161328.png"
+    }
+  ],
+  "NMJSS2": [
+    {
+      "name": "**NEWJEANS ✦✦ Minji 민지**",
+      "idol": "**✦✦ Minji 민지**",
+      "era": "**Super Shy**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205860489515769887/1205860490073604207/NewJeans_Super_Shy_20240210152014.png"
+    }
+  ],
+  "NHNSS2": [
+    {
+      "name": "**NEWJEANS ✦✦ Hanni 한니**",
+      "idol": "**✦✦ Hanni 한니**",
+      "era": "**Super Shy**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205860489515769887/1205860490073604207/NewJeans_Super_Shy_20240210152014.png"
+    }
+  ],
+  "NDNSS2": [
+    {
+      "name": "**NEWJEANS ✦✦ Danielle 다니엘**",
+      "idol": "**✦✦ Danielle 다니엘**",
+      "era": "**Super Shy**",
+      "role": "**All-round**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205860489515769887/1205860492816551986/NewJeans_Super_Shy_20240210152041.png"
+    }
+  ],
+  "NHRSS2": [
+    {
+      "name": "**NEWJEANS ✦✦ Haerin 해린**",
+      "idol": "**✦✦ Haerin 해린**",
+      "era": "**Super Shy**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205860489515769887/1205860490979311657/card_template7_20240210150336.png"
+    }
+  ],
+  "NHISS2": [
+    {
+      "name": "**NEWJEANS ✦✦ Hyein 혜인**",
+      "idol": "**✦✦ Hyein 혜인**",
+      "era": "**Super Shy**",
+      "role": "**All-round**",
+      "rarity": "**✦✦**",
+      "image": "https://cdn.discordapp.com/attachments/1205860489515769887/1205860491835080775/NewJeans_Super_Shy_20240210152023.png"
+    }
+  ],
+  "INYDG1": [
+    {
+      "name": "**I.O.I ✦ Nayoung 나영**",
+      "idol": "**✦ Nayoung 나영**",
+      "era": "**Dream Girls**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219553786683588708/1219553787346419762/smb_gg_20240319154806.png?ex=660bb8f9&is=65f943f9&hm=75cb6b2afcddce7bb78fb500912d8fa5938c1ba6659a575c6c0b0f48a4921fea&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ICHDG1": [
+    {
+      "name": "**I.O.I ✦ Chungha 청하**",
+      "idol": "**✦ Chungha 청하**",
+      "era": "**Dream Girls**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219553786683588708/1219553787782496308/smb_gg_20240319154756.png?ex=660bb8f9&is=65f943f9&hm=cb70cb6490cfad0ff751b407518f4da06c03998f0f4b368e477d72c85cad754b&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ISJDG1": [
+    {
+      "name": "**I.O.I ✦ Sejeong 세정**",
+      "idol": "**✦ Sejeong 세정**",
+      "era": "**Dream Girls**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219553786683588708/1219553788197867531/smb_gg_20240319154750.png?ex=660bb8f9&is=65f943f9&hm=3c8c4fa50890f2205fecd7bb13f67c66855f12f00459b772b8a4a87785221199&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ICYDG1": [
+    {
+      "name": "**I.O.I ✦ Chaeyeon 채연**",
+      "idol": "**✦ Chaeyeon 채연**",
+      "era": "**Dream Girls**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219553786683588708/1219553788596191262/smb_gg_20240319154744.png?ex=660bb8f9&is=65f943f9&hm=c6d85bb5fac914a20f010354358e0cb580eda4e05b32e51528a18f3cbdd16438&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "SALRV1": [
+    {
+      "name": "**SOLOIST ✦ AleXa 알렉사**",
+      "idol": "**✦ AleXa 알렉사**",
+      "era": "**ReviveR (Xtra)**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206974906105991258/1211744454650761216/Soloist_AleXa_-_Xtra_1_Star.png?ex=660aff77&is=65f88a77&hm=ca922a5c945157e9f73496e5e58dfcf28ca4aabe04398c5de88756f210246e84&"
+    }
+  ],
+  "IKKDG1": [
+    {
+      "name": "**I.O.I ✦ Kyulkyung 결경**",
+      "idol": "**✦ Kyulkyung 결경**",
+      "era": "**Dream Girls**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219553786683588708/1219553789053501441/smb_gg_20240319154736.png?ex=660bb8f9&is=65f943f9&hm=486f43fcef584287673e428f0f24e4158d1848fb0af09fa733f48157cb0161ec&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ISHDG1": [
+    {
+      "name": "**I.O.I ✦ Sohye 소혜**",
+      "idol": "**✦ Sohye 소혜**",
+      "era": "**Dream Girls**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219553786683588708/1219553789435187232/smb_gg_20240319154729.png?ex=660bb8f9&is=65f943f9&hm=958bd4198e755c1f0e702848d70ce2a4222a1e9aaa2ddcdef3459a544a6700b6&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "SDIDG1": [
+    {
+      "name": "**SOLOIST ✦ DPR IAN 유바롬**",
+      "idol": "**✦ DPR IAN 유바롬**",
+      "era": "**Dear Insanity (Don't Go Insane)**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1206975202634764369/1211744437814693970/Soloist_DPR_Ian_-_Dear_Insanity_1_Star.png?ex=660aff73&is=65f88a73&hm=3f1ca755b0290292b2b98b73420757ff946a7d08236019b772de5c888c7ece0d&"
+    }
+  ],
+  "IYEDG1": [
+    {
+      "name": "**I.O.I ✦ Yeonjung 연정**",
+      "idol": "**✦ Yeonjung 연정**",
+      "era": "**Dream Girls**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219553786683588708/1219553865343569991/smb_gg_20240319154722.png?ex=660bb90b&is=65f9440b&hm=d77416c12096adc48868b4df4721954d080ab2d116bfbcbbf252f791100aad64&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "IYODG1": [
+    {
+      "name": "**I.O.I ✦ Yoojung 유정**",
+      "idol": "**✦ Yoojung 유정**",
+      "era": "**Dream Girls**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219553786683588708/1219553865750282290/smb_gg_20240319154715.png?ex=660bb90b&is=65f9440b&hm=7f427c7f2a50157be5f56add3b1d901dfecabaf1203b7aa25f420f539e8ec097&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "IMNDG1": [
+    {
+      "name": "**I.O.I ✦ Mina 미나**",
+      "idol": "**✦ Mina 미나**",
+      "era": "**Dream Girls**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219553786683588708/1219553866417311816/smb_gg_20240319154710.png?ex=660bb90b&is=65f9440b&hm=7518e613b3f2ea06335f4d5e599b86ff42a4c2c7990e264190addd40c5dc8893&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "IDYDG1": [
+    {
+      "name": "**I.O.I ✦ Doyeon 도연**",
+      "idol": "**✦ Doyeon 도연**",
+      "era": "**Dream Girls**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219553786683588708/1219553866882744412/smb_gg_20240319154704.png?ex=660bb90c&is=65f9440c&hm=74701212fa1efd84a5672ea6f0445e291bb0ea390aebcfab23eee7ced2b63cb7&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "SBIIL1": [
+    {
+      "name": "**SOLOIST ✦ B.I 비아이**",
+      "idol": "**✦ B.I 비아이**",
+      "era": "**Illa-Illa**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1211363586170032219/1211363586518286366/SOLOIST_B.I_Illa-Illa.png?ex=66099cc1&is=65f727c1&hm=b8a9f77b57d73f3e01c6baf64ac248cc9e40b7d93dc4586d365fefc254c4c249&"
+    }
+  ],
+  "ISMDG1": [
+    {
+      "name": "**I.O.I ✦ Somi 소미**",
+      "idol": "**✦ Somi 소미**",
+      "era": "**Dream Girls**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219553786683588708/1219553867340189767/smb_gg_20240319154646.png?ex=660bb90c&is=65f9440c&hm=470eb982676c974b1cb9c0886db0da318def17cc3d2925f7b983d23e7140c2a1&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "SKETF1": [
+    {
+      "name": "**SOLOIST ✦ Kwon Eunbi 권은비**",
+      "idol": "**✦ Kwon Eunbi 권은비**",
+      "era": "**The Flash**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1219559324255522886/1219559324645462067/smb_fsolo_20240319155841.png?ex=660bbe21&is=65f94921&hm=d3623c182263c8089ea3219bc652ae22ac263002691a3a51e685193c4d9cf5aa&"
+    }
+  ],
+  "SBHBB1": [
+    {
+      "name": "**SOLOIST ✦ Baekhyun 백현**",
+      "idol": "**✦ Baekhyun 백현**",
+      "era": "**Bambi**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://cdn.discordapp.com/attachments/1219559514886635591/1219559515394015254/smb_msolo_20240319161101.png?ex=660bbe4e&is=65f9494e&hm=b20445a5e3372e6e5680bd45efbfa179f48953881ba89bb6d83e5375a0d96776&"
+    }
+  ],
+  "KYJWF1": [
+    {
+      "name": "**Kep1er ✦ Yujin 유진**",
+      "idol": "**✦ Yujin 유진**",
+      "era": "**We Fresh**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219989717446295644/1219989719635460126/card_template3_20240203122114.png?ex=660d4ef7&is=65fad9f7&hm=14dd7d548f5fd14293c2a209d83c8b6e658aa5e034bf049460550917aa7b638f&=&format=webp&quality=lossless&width=685&height=1035"
+    }
+  ],
+  "KMSWF1": [
+    {
+      "name": "**Kep1er ✦ Mashiro 마시로**",
+      "idol": "**✦ Mashiro 마시로**",
+      "era": "**We Fresh**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219989717446295644/1219989720428449822/card_template3_20240203141813.png?ex=660d4ef7&is=65fad9f7&hm=88c7dafc36ed56ba3dbc8021744d73aaeff5f45b566c05d76023d930f10a659e&=&format=webp&quality=lossless&width=685&height=1035"
+    }
+  ],
+  "KXTWF1": [
+    {
+      "name": "**Kep1er ✦ Xiaoting 샤오팅**",
+      "idol": "**✦ Xiaoting 샤오팅**",
+      "era": "**We Fresh**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219989717446295644/1219989718373240873/card_template3_20240201224904.png?ex=660d4ef7&is=65fad9f7&hm=b2abb7ca40b1be9cde6868ad619bb75db0520d4ae5d0696a00293f736f868081&=&format=webp&quality=lossless&width=685&height=1035"
+    }
+  ],
+  "KCHWF1": [
+    {
+      "name": "**Kep1er ✦ Chaehyun 채현**",
+      "idol": "**✦ Chaehyun 채현**",
+      "era": "**We Fresh**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219989717446295644/1219989718775627867/card_template3_20240203122005.png?ex=660d4ef7&is=65fad9f7&hm=6c9edd7a9f987d4705c955e7e5d08583be25231fc22157b4955dfeabee4f665e&=&format=webp&quality=lossless&width=685&height=1035"
+    }
+  ],
+  "KDYWF1": [
+    {
+      "name": "**Kep1er ✦ Dayeon 다연**",
+      "idol": "**✦ Dayeon 다연**",
+      "era": "**We Fresh**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219989717446295644/1219989720059346944/card_template3_20240203122133.png?ex=660d4ef7&is=65fad9f7&hm=f10b57596f1fbf79f1b304d7e13b7da9aeca90a99554542edf647c0fa5854b16&=&format=webp&quality=lossless&width=685&height=1035"
+    }
+  ],
+  "KHKWF1": [
+    {
+      "name": "**Kep1er ✦ Hikaru 히카루**",
+      "idol": "**✦ Hikaru 히카루**",
+      "era": "**We Fresh**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219989717446295644/1219989720814059620/Kep1er_We_Fresh_20240320203901.png?ex=660d4ef7&is=65fad9f7&hm=2659205406e6dddc1d1526853cbff775f4955fefdd83f0901d7fdc452941f5da&=&format=webp&quality=lossless&width=685&height=1035"
+    }
+  ],
+  "KHBWF1": [
+    {
+      "name": "**Kep1er ✦ Huening Bahiyyih 휴닝바히에**",
+      "idol": "**✦ Huening Bahiyyih 휴닝바히에**",
+      "era": "**We Fresh**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219989717446295644/1219989721636409404/Kep1er_We_Fresh_20240320204238.png?ex=660d4ef7&is=65fad9f7&hm=ac0042625d7ed076e6eb2e47f143f5745dcfd04a6feb6d99a35c69f7c81dae2d&=&format=webp&quality=lossless&width=685&height=1035"
+    }
+  ],
+  "KYEWF1": [
+    {
+      "name": "**Kep1er ✦ Youngeun 영은**",
+      "idol": "**✦ Youngeun 영은**",
+      "era": "**We Fresh**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219989717446295644/1219989719220486155/card_template3_20240203122038.png?ex=660d4ef7&is=65fad9f7&hm=af6f1a8970cbec1c3f6eef3bf867870d2e4a7cfcf20ffd37ea18fb121767f016&=&format=webp&quality=lossless&width=685&height=1035"
+    }
+  ],
+  "KYSWF1": [
+    {
+      "name": "**Kep1er ✦ Yeseo 예서**",
+      "idol": "**✦ Yeseo 예서**",
+      "era": "**We Fresh**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1219989717446295644/1219989721233752107/Kep1er_We_Fresh_20240320204203.png?ex=660d4ef7&is=65fad9f7&hm=924ed03c4521adf15197eedc4d0bd29856052ab1f313d86889ecfd0f94bc1496&=&format=webp&quality=lossless&width=685&height=1035"
+    }
+  ],
+  "AYKMC1": [
+    {
+      "name": "**ATBO ✦ Yeonkyu 연규**",
+      "idol": "**✦ Yeonkyu 연규**",
+      "era": "**Monochrome (Color)**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220637600281268284/1220637600675663922/atbo_yeonkyu.png?ex=660faa5a&is=65fd355a&hm=66f373bd35ef780649d7fca981c94b58b735126aefad946488476d053530d1b3&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "AWBMC1": [
+    {
+      "name": "**ATBO ✦ Wonbin 원빈**",
+      "idol": "**✦ Wonbin 원빈**",
+      "era": "**Monochrome (Color)**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220637600281268284/1220637601300742184/atbo_wonbin.png?ex=660faa5a&is=65fd355a&hm=3369fe72229aa54345fffb274da17e9b4016d3585e420d72b9dcc6f8d2bb3292&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ASHMC1": [
+    {
+      "name": "**ATBO ✦ Seunghwan 승환**",
+      "idol": "**✦ Seunghwan 승환**",
+      "era": "**Monochrome (Color)**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220637600281268284/1220637601736691772/atbo_seunghwan.png?ex=660faa5a&is=65fd355a&hm=5f436e5b8cebcd98c6eafbaa9bf142edfa9f8edbf3c6ab4a3ff17356b48e9436&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ARWMC1": [
+    {
+      "name": "**ATBO ✦ Rakwon 락원**",
+      "idol": "**✦ Rakwon 락원**",
+      "era": "**Monochrome (Color)**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220637600281268284/1220637602168836146/atbo_rakwon.png?ex=660faa5a&is=65fd355a&hm=831f4d0fe1592d6f15816dd5bf8a7185caacba409c59cef328b023f75b4e2985&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "AJSMC1": [
+    {
+      "name": "**ATBO ✦ Junseok 준석**",
+      "idol": "**✦ Junseok 준석**",
+      "era": "**Monochrome (Color)**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220637600281268284/1220637602605170748/atbo_junseok.png?ex=660faa5a&is=65fd355a&hm=1bff0e0660b1177c7dd14190ad4b6b2681733fe71ec7f8b26ff1bebc1bdd6c10&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "AJMMC1": [
+    {
+      "name": "**ATBO ✦ Junmin 준민**",
+      "idol": "**✦ Junmin 준민**",
+      "era": "**Monochrome (Color)**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220637600281268284/1220637603070480394/atbo_junmin.png?ex=660faa5a&is=65fd355a&hm=3d168173f39dae685e2015b0fd6e552d61d2ad8fa84f6303f16e8c4167311c67&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "AHJMC1": [
+    {
+      "name": "**ATBO ✦ Hyunjun 현준**",
+      "idol": "**✦ Hyunjun 현준**",
+      "era": "**Monochrome (Color)**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220637600281268284/1220637603561345034/atbo_hyunjun.png?ex=660faa5b&is=65fd355b&hm=5bbcb7e85f3ece9797b88f6718fb95fab91cabf761c34c23ba38da3159acdb52&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "BJHBS1": [
+    {
+      "name": "**BOYNEXTDOOR ✦ Jaehyun 재현**",
+      "idol": "**✦ Jaehyun 재현**",
+      "era": "**But Sometimes**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1200292019583594597/1200292020254679181/smb_boynextdoor_20240126111555.png?ex=660f7a0d&is=65fd050d&hm=5d431e1ee2042c37ccf1962633d45d0f00ca93ab550b8842158011a01119a459&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "BSHBS1": [
+    {
+      "name": "**BOYNEXTDOOR ✦ Sungho 성호**",
+      "idol": "**✦ Sungho 성호**",
+      "era": "**But Sometimes**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1200292019583594597/1200292020745416704/smb_boynextdoor_20240126111551.png?ex=660f7a0e&is=65fd050e&hm=8a1905457f86174a0bd956b8620d685d0614e969a41b61aa24c1b5f79b5d6518&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "BRWBS1": [
+    {
+      "name": "**BOYNEXTDOOR ✦ Riwoo 리우**",
+      "idol": "**✦ Riwoo 리우**",
+      "era": "**But Sometimes**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1200292019583594597/1200292021160648784/smb_boynextdoor_20240126111548.png?ex=660f7a0e&is=65fd050e&hm=a56ba56256f86ababa6b009c6056eae4408a4a51cd4264a6eb248416908a0393&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "BTSBS1": [
+    {
+      "name": "**BOYNEXTDOOR ✦ Taesan 태산**",
+      "idol": "**✦ Taesan 태산**",
+      "era": "**But Sometimes**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1200292019583594597/1200292021517172796/smb_boynextdoor_20240126111543.png?ex=660f7a0e&is=65fd050e&hm=651aeff7267416ec3d31dab9a05a3531c69c632ff5091d6f4ced682973716a2b&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "BLHBS1": [
+    {
+      "name": "**BOYNEXTDOOR ✦ Leehan 이한**",
+      "idol": "**✦ Leehan 이한**",
+      "era": "**But Sometimes**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1200292019583594597/1200292021949182012/smb_boynextdoor_20240126111538.png?ex=660f7a0e&is=65fd050e&hm=cea30173b5756dda64341df218e6be783c8dbaced13e20cb3c74fdc685c272bd&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "BWHBS1": [
+    {
+      "name": "**BOYNEXTDOOR ✦ Woonhak 운학**",
+      "idol": "**✦ Woonhak 운학**",
+      "era": "**But Sometimes**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1200292019583594597/1200292022326661140/smb_boynextdoor_20240126111535.png?ex=660f7a0e&is=65fd050e&hm=d068748dfada595224897fa61ed4d88218f5333ce1c7cf1e000a131edb0273f9&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "CHYQA1": [
+    {
+      "name": "**CHERRY BULLET ✦ Haeyoon 해윤**",
+      "idol": "**✦ Haeyoon 해윤**",
+      "era": "**Q&A**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220685485035356262/1220685485945524326/Haeyoon_QA_1s.png?ex=660fd6f3&is=65fd61f3&hm=99638a3b2491dbf7311fd6a00b65c4e6733ab9700a45d3ad0f84d129b6618ef6&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "CYJQA1": [
+    {
+      "name": "**CHERRY BULLET ✦ Yuju 유주**",
+      "idol": "**✦ Yuju 유주**",
+      "era": "**Q&A**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220685485035356262/1220685486306230282/Yuju_QA_1s.png?ex=660fd6f3&is=65fd61f3&hm=6698bee9b3543020ad690d105e2221a5329e837da3a2654e51c1808f187b8624&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "CMRQA1": [
+    {
+      "name": "**CHERRY BULLET ✦ Mirae 미래**",
+      "idol": "**✦ Mirae 미래**",
+      "era": "**Q&A**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220685485035356262/1220685486721470484/Mirae_QA_1s.png?ex=660fd6f3&is=65fd61f3&hm=09d4e4bd21cb53756f986affd65f1a4398476b720b3f56adfe007f7095cda64b&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "CBRQA1": [
+    {
+      "name": "**CHERRY BULLET ✦ Bora 보라**",
+      "idol": "**✦ Bora 보라**",
+      "era": "**Q&A**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220685485035356262/1220685487220461588/Bora_QA_1s.png?ex=660fd6f3&is=65fd61f3&hm=12e6e3011fd3a5dd4e900dfc4d250d0f9289baf677a65b0e5fe7c2e3e7612126&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "CJWQA1": [
+    {
+      "name": "**CHERRY BULLET ✦ Jiwon 지원**",
+      "idol": "**✦ Jiwon 지원**",
+      "era": "**Q&A**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220685485035356262/1220685487619051580/Jiwon_QA_1s.png?ex=660fd6f3&is=65fd61f3&hm=5e51e0365923d19692e4d94d58930bc416639a6eff58fdf4ba0bab50f403300b&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "CKKQA1": [
+    {
+      "name": "**CHERRY BULLET ✦ Kokoro 코코로**",
+      "idol": "**✦ Kokoro 코코로**",
+      "era": "**Q&A**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220685485035356262/1220685487983824989/Kokoro_QA_1s.png?ex=660fd6f3&is=65fd61f3&hm=b0226d402555510cc62bba2e52700117dab1685609ab1720188cc28dbcdd7a20&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "CRMQA1": [
+    {
+      "name": "**CHERRY BULLET ✦ Remi 레미**",
+      "idol": "**✦ Remi 레미**",
+      "era": "**Q&A**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220685485035356262/1220685488407576587/Remi_QA_1s.png?ex=660fd6f3&is=65fd61f3&hm=d5ce46f2e03aee0554339233f1c8daa48861b02fdaa0100dfd39a2de28f4225d&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "CCRQA1": [
+    {
+      "name": "**CHERRY BULLET ✦ Chaerin 채린**",
+      "idol": "**✦ Chaerin 채린**",
+      "era": "**Q&A**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220685485035356262/1220685488898183188/Chaerin_QA_1s.png?ex=660fd6f3&is=65fd61f3&hm=d7387c0776d8885d32e339164e9b0c3b2832e8d558063c1fa74db41476b93a27&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "CLLQA1": [
+    {
+      "name": "**CHERRY BULLET ✦ Linlin 린린**",
+      "idol": "**✦ Linlin 린린**",
+      "era": "**Q&A**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220685485035356262/1220685489368072252/Linlin_QA_1s.png?ex=660fd6f3&is=65fd61f3&hm=d456c068e125686750645b84f0cd98734e04385d8b91f2f5ddb37598f0d650a0&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "CMYQA1": [
+    {
+      "name": "**CHERRY BULLET ✦ May 메이**",
+      "idol": "**✦ May 메이**",
+      "era": "**Q&A**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220685485035356262/1220685489795764224/May_QA_1s.png?ex=660fd6f4&is=65fd61f4&hm=f8de523508cf377267a45c8a0d1c414627c9337e1db0378edd3918776d21a56b&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "SLSLL1": [
+    {
+      "name": "**SOLOIST ✦ Lisa 리사**",
+      "idol": "**✦ Lisa 리사**",
+      "era": "**LALISA**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1211358808605990973/1211358808979542016/SOLOIST_Lisa_LALISA.png?ex=6609984e&is=65f7234e&hm=cbe6446d7bf67f233f3cf6310461e8caac148e8971f61b24ef145bb681bc37f6&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "DALNT1": [
+    {
+      "name": "**DRIPPIN ✦ Alex 알렉스**",
+      "idol": "**✦ Alex 알렉스**",
+      "era": "**Nostalgia**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1215675153254584330/1215675153908899870/Drippin_Nostalgia_1_Star_-_Alex.png?ex=6606d736&is=65f46236&hm=1df7588e951f80aff1072751888e7a1bbb6e38083b8f49e7ef6b87c2e508332d&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "DDYNT1": [
+    {
+      "name": "**DRIPPIN ✦ Dongyun 동윤**",
+      "idol": "**✦ Dongyun 동윤**",
+      "era": "**Nostalgia**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1215675153254584330/1215675155209003028/Drippin_Nostalgia_1_Star_-_Dongyun.png?ex=6606d737&is=65f46237&hm=cd737814bad921ca8508cea6a7efe3cd071ef56b2ffddb863866c621d9e07b32&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "DHPNT1": [
+    {
+      "name": "**DRIPPIN ✦ Hyeop 협**",
+      "idol": "**✦ Hyeop 협**",
+      "era": "**Nostalgia**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1215675153254584330/1215675155599065140/Drippin_Nostalgia_1_Star_-_Hyeop.png?ex=6606d737&is=65f46237&hm=b0c6ee653bdc536d209eb3dd47ba7d41c8aaf2768605e6edc9d811c2fdd53301&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "DJHNT1": [
+    {
+      "name": "**DRIPPIN ✦ Junho 준호**",
+      "idol": "**✦ Junho 준호**",
+      "era": "**Nostalgia**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1215675153254584330/1215675156299776040/Drippin_Nostalgia_1_Star_-_Junho.png?ex=6606d737&is=65f46237&hm=69092a662dcd50edff71c6b2881de772704069a04d7afc9747a0c53e7330427e&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "DMSNT1": [
+    {
+      "name": "**DRIPPIN ✦ Minseo 민서**",
+      "idol": "**✦ Minseo 민서**",
+      "era": "**Nostalgia**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1215675153254584330/1215675156928663622/Drippin_Nostalgia_1_Star_-_Minseo.png?ex=6606d737&is=65f46237&hm=5c87a1161e640cbc843068b1f4a157e16640785716347e755319ff1b2243ae85&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "DYSNT1": [
+    {
+      "name": "**DRIPPIN ✦ Yunseong 윤성**",
+      "idol": "**✦ Yunseong 윤성**",
+      "era": "**Nostalgia**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1215675153254584330/1215675157469859902/Drippin_Nostalgia_1_Star_-_Yunseong.png?ex=6606d737&is=65f46237&hm=53c78ab4cad0df44428e295c5d12adaf92eb3698eff0134e7187bc337bc56e25&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "TDYIL1": [
+    {
+      "name": "**TREASURE ✦ Doyoung 도영**",
+      "idol": "**✦ Doyoung 도영**",
+      "era": "**I LOVE YOU**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220631382490091520/1220631382968238151/treasure_doyoung.png?ex=660fa48f&is=65fd2f8f&hm=10484778cd2afad08737f7b121a6d2ed3a9fec525ee78783caf5c8f5ad02912e&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "TYSIL1": [
+    {
+      "name": "**TREASURE ✦ Yoshi 요시**",
+      "idol": "**✦ Yoshi 요시**",
+      "era": "**I LOVE YOU**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220631382490091520/1220631383383347260/treasure_yoshi.png?ex=660fa490&is=65fd2f90&hm=c0e6a1109f37c09fd76009702b41ce08f8a410c3f1b69640ec7f7a0c46e5d829&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "TASIL1": [
+    {
+      "name": "**TREASURE ✦ Asahi 아사히**",
+      "idol": "**✦ Asahi 아사히**",
+      "era": "**I LOVE YOU**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220631382490091520/1220631383819685888/treasure_asahi.png?ex=660fa490&is=65fd2f90&hm=c331aad73456ca4bee21ef1b4757af7376fca9624d79975d035259a4d871f75d&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "THSIL1": [
+    {
+      "name": "**TREASURE ✦ Hyunsuk 현석**",
+      "idol": "**✦ Hyunsuk 현석**",
+      "era": "**I LOVE YOU**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220631382490091520/1220631384306221096/treasure_hyunsuk.png?ex=660fa490&is=65fd2f90&hm=bff4faaca2957d165ab042a910a5c0d61d578c1e325a2e648eb2fc4b91dcd03c&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "DCGNT1": [
+    {
+      "name": "**DRIPPIN ✦ Changuk 창욱**",
+      "idol": "**✦ Changuk 창욱**",
+      "era": "**Nostalgia**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1215675153254584330/1215675154437513316/Drippin_Nostalgia_1_Star_-_Changuk.png?ex=6606d736&is=65f46236&hm=15e5ee8807cbca964a30a08a1c9c097fd01d7854581cb4e88d13ecca3aa8b2ec&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "THRIL1": [
+    {
+      "name": "**TREASURE ✦ Haruto 하루토**",
+      "idol": "**✦ Haruto 하루토**",
+      "era": "**I LOVE YOU**",
+      "role": "**Rap**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220631382490091520/1220631384792764426/treasure_haruto.png?ex=660fa490&is=65fd2f90&hm=1f08d3c058f2e08fd372da5237c79a0e836cc7a8073387312825a3be4570f236&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "TJAIL1": [
+    {
+      "name": "**TREASURE ✦ Jaehyuk 재혁**",
+      "idol": "**✦ Jaehyuk 재혁**",
+      "era": "**I LOVE YOU**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220631382490091520/1220631385212190820/treasure_jaehyuk.png?ex=660fa490&is=65fd2f90&hm=bcb732775be69afc0443b33dd8e5e761ecc6f4823fce6ad67641ae6940b4feb3&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "TJWIL1": [
+    {
+      "name": "**TREASURE ✦ Jeongwoo 정우**",
+      "idol": "**✦ Jeongwoo 정우**",
+      "era": "**I LOVE YOU**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220631382490091520/1220631385677631499/treasure_jeongwoo.png?ex=660fa490&is=65fd2f90&hm=9bb0df182e00951aceb8b28bbd9a6a3038c47a920f8045d5cee5ab57c1401ba1&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "TMSIL1": [
+    {
+      "name": "**TREASURE ✦ Mashiho 마시호**",
+      "idol": "**✦ Mashiho 마시호**",
+      "era": "**I LOVE YOU**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220631382490091520/1220631549515665449/treasure_mashiho.png?ex=660fa4b7&is=65fd2fb7&hm=eddc93ccec46af46910d01823de60b74cb99910bfa281e9776ffaa5c51787afb&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "TJKIL1": [
+    {
+      "name": "**TREASURE ✦ Junkyu 준규**",
+      "idol": "**✦ Junkyu 준규**",
+      "era": "**I LOVE YOU**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220631382490091520/1220631550022910013/treasure_junkyu.png?ex=660fa4b7&is=65fd2fb7&hm=81e7eaaecaac80793def78b8fb7645837293432f465d973fa9b4b95f68bd544c&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "TYDIL1": [
+    {
+      "name": "**TREASURE ✦ Yedam 예담**",
+      "idol": "**✦ Yedam 예담**",
+      "era": "**I LOVE YOU**",
+      "role": "**Vocal**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220631382490091520/1220631550442606652/treasure_yedam.png?ex=660fa4b7&is=65fd2fb7&hm=b270bf2b2d44d6e6ebef0a69ca675a5fe83a6cc1e76c7fa31e22d5b010e121d9&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "TJUIL1": [
+    {
+      "name": "**TREASURE ✦ Junghwan 정환**",
+      "idol": "**✦ Junghwan 정환**",
+      "era": "**I LOVE YOU**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220631382490091520/1220631550811439144/treasure_junghwan.png?ex=660fa4b7&is=65fd2fb7&hm=c31f03b22626f04e66e1b327e24fead843a4557b58d76d676fdcdaec2126a6f3&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "TJIIL1": [
+    {
+      "name": "**TREASURE ✦ Jihoon 지훈**",
+      "idol": "**✦ Jihoon 지훈**",
+      "era": "**I LOVE YOU**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220631382490091520/1220631551251972096/treasure_jihoon.png?ex=660fa4b8&is=65fd2fb8&hm=13f22801ba749d79f071b551fb9307add5029ec52ba41ff4a9113487171ba51d&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ZYJCR2": [
+    {
+      "name": "**ZEROBASEONE ✦✦ Yujin 유진**",
+      "idol": "**✦✦ Yujin 유진**",
+      "era": "**CRUSH**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1220602678304964638/1220602678929788958/Crush_ZB1_Yujin.png?ex=660f89d4&is=65fd14d4&hm=12c2bac9dbe51b04d9f62e4e2d35caf0ee074a252b77cc2fa767abd8c31cc977&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ZGWCR2": [
+    {
+      "name": "**ZEROBASEONE ✦✦ Gunwook 군욱**",
+      "idol": "**✦✦ Gunwook 군욱**",
+      "era": "**CRUSH**",
+      "role": "**All-round**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1220602678304964638/1220602679303077961/Crush_ZB1_Gunwook.png?ex=660f89d4&is=65fd14d4&hm=6878e43fe9e4a72ed3f721f6d67de414a5007f73d7f79457ab1cdff659d26378&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ZGVCR2": [
+    {
+      "name": "**ZEROBASEONE ✦✦ Gyuvin 규빈**",
+      "idol": "**✦✦ Gyuvin 규빈**",
+      "era": "**CRUSH**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1220602678304964638/1220602679751999559/Crush_ZB1_Gyuvin.png?ex=660f89d4&is=65fd14d4&hm=3b54b293d8ebb736f9dd9ddf06fa2aeeba3a0104b8be8c5173f7442fe4b4de95&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ZRKCR2": [
+    {
+      "name": "**ZEROBASEONE ✦✦ Ricky 리키**",
+      "idol": "**✦✦ Ricky 리키**",
+      "era": "**CRUSH**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1220602678304964638/1220602680150331392/Crush_ZB1_Ricky.png?ex=660f89d4&is=65fd14d4&hm=3f1e587d64e85592e4358e84670a2d6e763e12438cdbdd206c1cf00890fbf367&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ZTRCR2": [
+    {
+      "name": "**ZEROBASEONE ✦✦ Taerae 태래**",
+      "idol": "**✦✦ Taerae 태래**",
+      "era": "**CRUSH**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1220602678304964638/1220602680552980571/Crush_ZB1_TaeRae.png?ex=660f89d4&is=65fd14d4&hm=df41ba308ed933aa0bb78fc168f9aacd12ccf36bbc2a4092d984460647703bea&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ZMTCR2": [
+    {
+      "name": "**ZEROBASEONE ✦✦ Matthew 매튜**",
+      "idol": "**✦✦ Matthew 매튜**",
+      "era": "**CRUSH**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1220602678304964638/1220602680943181905/Crush_ZB1_Matthew.png?ex=660f89d4&is=65fd14d4&hm=96496bfaceaae796600e7bae15841c800a3e02b54f3b314c249bc9b686693c50&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ZZHCR2": [
+    {
+      "name": "**ZEROBASEONE ✦✦ Zhang Hao 장하오**",
+      "idol": "**✦✦ Zhang Hao 장하오**",
+      "era": "**CRUSH**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1220602678304964638/1220602681307959296/Crush_ZB1_Zhanghao.png?ex=660f89d4&is=65fd14d4&hm=910504a5779d331c1f8e262f09a3de57c698d81e1d8e5c870ee5d78769730c86&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ZJWCR2": [
+    {
+      "name": "**ZEROBASEONE ✦✦ Jiwoong 지웅**",
+      "idol": "**✦✦ Jiwoong 지웅**",
+      "era": "**CRUSH**",
+      "role": "**All-round**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1220602678304964638/1220602681689636904/Crush_ZB1_Jiwoong.png?ex=660f89d5&is=65fd14d5&hm=b6dc545a12083c2b05a18cb166a9110031018e9ca3f332c916c8ebd6a7818d2e&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ZHBCR2": [
+    {
+      "name": "**ZEROBASEONE ✦✦ Hanbin 한빈**",
+      "idol": "**✦✦ Hanbin 한빈**",
+      "era": "**CRUSH**",
+      "role": "**All-round**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1220602678304964638/1220602682130169866/Crush_ZB1_Hanbin.png?ex=660f89d5&is=65fd14d5&hm=a1c403663c39df85b1694fa6e76a5f579b131efe88f2ce90d8e4fb6e99987484&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "EJABM2": [
+    {
+      "name": "**ENHYPEN ✦✦ Jay 제이**",
+      "idol": "**✦✦ Jay 제이**",
+      "era": "**Bite Me**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1214835493296939048/1214835497172602910/BiteMe_Jay.png?ex=660d03b9&is=65fa8eb9&hm=8cfaf8bbedfcf116baef4ce204232e50d2d996cc2a6366a57fb84cff72b8111b&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "EJKBM2": [
+    {
+      "name": "**ENHYPEN ✦✦ Jake 제이크**",
+      "idol": "**✦✦ Jake 제이크**",
+      "era": "**Bite Me**",
+      "role": "**Rap**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1214835493296939048/1214835497592160278/BiteMe_Jake.png?ex=660d03b9&is=65fa8eb9&hm=97a3a2163b9d73f26cd4e2c530ecfee0aefa429e2f0209aaeda87e2dd1c4b823&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ESHBM2": [
+    {
+      "name": "**ENHYPEN ✦✦ Sunghoon 성훈**",
+      "idol": "**✦✦ Sunghoon 성훈**",
+      "era": "**Bite Me**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1214835493296939048/1214835498141618186/BiteMe_Sunghoon.png?ex=660d03b9&is=65fa8eb9&hm=94a88a92be38c4a5aee83304b5c7a87cc7e31850f5b70961ddf21bb185a03514&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ESNBM2": [
+    {
+      "name": "**ENHYPEN ✦✦ Sunoo 수누**",
+      "idol": "**✦✦ Sunoo 수누**",
+      "era": "**Bite Me**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1214835493296939048/1214835498548469771/BiteMe_Sunoo.png?ex=660d03b9&is=65fa8eb9&hm=58dc1aff4cfd37d07ec20e3ea0c91c7ddcdf6f9b5f18f8c97c7e984f965fd672&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "ENKBM2": [
+    {
+      "name": "**ENHYPEN ✦✦ Ni-Ki 니키**",
+      "idol": "**✦✦ Ni-Ki 니키**",
+      "era": "**Bite Me**",
+      "role": "**Dance**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1214835493296939048/1214835498996994058/BiteMe_Niki.png?ex=660d03b9&is=65fa8eb9&hm=6221a0a430c912b503fb87013e3cefac3c56c069e761ae799185eee1ba6a8a69&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "SLCLD1": [
+    {
+      "name": "**SOLOIST ✦ Lee Chaeyeon 이채연**",
+      "idol": "**✦ Lee Chaeyeon 이채연**",
+      "era": "**Let's Dance**",
+      "role": "**Dance**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220701650713448498/1220701651472748604/SOLOISTS_20240322155027.png?ex=660fe601&is=65fd7101&hm=cb9e7d271c1f83ec003ef556828dd7b7d0baa1ac6bbe590eacbd0d3b51493ebe&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "EJWBM2": [
+    {
+      "name": "**ENHYPEN ✦✦ Jungwon 정원**",
+      "idol": "**✦✦ Jungwon 정원**",
+      "era": "**Bite Me**",
+      "role": "**Vocal**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1214835493296939048/1214835496044339230/BiteMe_Jungwon.png?ex=660d03b8&is=65fa8eb8&hm=7b36524d57424af49addcf3834a0b3e539c80ab25d647055c5b8dae0777cb515&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "EHSBM2": [
+    {
+      "name": "**ENHYPEN ✦✦ Heeseung 희승**",
+      "idol": "**✦✦ Heeseung 희승**",
+      "era": "**Bite Me**",
+      "role": "**All-round**",
+      "rarity": "**✦✦**",
+      "image": "https://media.discordapp.net/attachments/1214835493296939048/1214835496723677205/BiteMe_Heeseung.png?ex=660d03b8&is=65fa8eb8&hm=a0e52c24d1d481c4b690e230021170aa485e3484d98754f314046ffcdcefde54&=&format=webp&quality=lossless&width=438&height=663"
+    }
+  ],
+  "SKYGS1": [
+    {
+      "name": "**SOLOIST ✦ Key 키**",
+      "idol": "**✦ Key 키**",
+      "era": "**Gasoline**",
+      "role": "**All-round**",
+      "rarity": "**✦**",
+      "image": "https://media.discordapp.net/attachments/1220980129283571762/1220980129665122345/card_template3_20240323141615.png?ex=6610e95b&is=65fe745b&hm=13326bc951674eca89e73389334fa7e10f349c05dec37a3c178fb7e7b52ac299&=&format=webp&quality=lossless&width=438&height=663"
+    }
   ]
 }
